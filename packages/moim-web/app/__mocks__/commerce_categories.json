@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": "FYPDGBE8FX",
+      "name": "[Mock]해산물",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305475751",
+      "createdAt": 1621305475751,
+      "updatedAt": 1621305475751,
+      "items": []
+    },
+    {
+      "id": "FYPDFRZKTT",
+      "name": "[Mock]게 · 갑각류",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305443154",
+      "createdAt": 1621305443154,
+      "updatedAt": 1621305443154,
+      "items": []
+    },
+    {
+      "id": "FYPDFYGO4O",
+      "name": "[Mock]연체류",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305454029",
+      "createdAt": 1621305454029,
+      "updatedAt": 1621305454029,
+      "items": []
+    },
+    {
+      "id": "FYPDG7UNXP",
+      "name": "[Mock]해조류",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305469799",
+      "createdAt": 1621305469799,
+      "updatedAt": 1621305469799,
+      "items": []
+    },
+    {
+      "id": "FYPDF4IYDP",
+      "name": "[Mock]생선류",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305403747",
+      "createdAt": 1621305403747,
+      "updatedAt": 1621305403747,
+      "items": [
+        {
+          "id": "FYPDKSWVRE",
+          "name": "참치",
+          "sellerId": "FYPCBR4ZV7",
+          "parentId": "FYPCBR4ZV7|FYPDF4IYDP",
+          "sortKey": "X1621305747051",
+          "createdAt": 1621305747039,
+          "updatedAt": 1621305747039,
+          "items": []
+        },
+        {
+          "id": "FYPDKP7VAV",
+          "name": "광어/우럭",
+          "sellerId": "FYPCBR4ZV7",
+          "parentId": "FYPCBR4ZV7|FYPDF4IYDP",
+          "sortKey": "X1621305740839",
+          "createdAt": 1621305740833,
+          "updatedAt": 1621305740833,
+          "items": []
+        },
+        {
+          "id": "FYPDKM6HCQ",
+          "name": "장어",
+          "sellerId": "FYPCBR4ZV7",
+          "parentId": "FYPCBR4ZV7|FYPDF4IYDP",
+          "sortKey": "X1621305735739",
+          "createdAt": 1621305735730,
+          "updatedAt": 1621305735730,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "FYPDG3ZIRT",
+      "name": "[Mock]소라류",
+      "sellerId": "FYPCBR4ZV7",
+      "parentId": "FYPCBR4ZV7",
+      "sortKey": "X1621305463307",
+      "createdAt": 1621305463307,
+      "updatedAt": 1621305463307,
+      "items": []
+    }
+  ]
+}

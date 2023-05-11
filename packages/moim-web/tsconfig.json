@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "preserveConstEnums": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist/",
+    "tsBuildInfoFile": "./dist/front-end",
+    "incremental": true,
+    "sourceMap": true,
+    "sourceRoot": "/",
+    "inlineSources": true,
+    "noImplicitAny": false,
+    "allowUnusedLabels": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es2016",
+    "jsx": "preserve",
+    "lib": ["es2017", "es2020", "dom", "webworker"],
+    "removeComments": false,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "strict": true,
+    "strictFunctionTypes": false,
+    "typeRoots": [
+      "./typings",
+      "../../node_modules/@types",
+      "../../node_modules/moim-common/@types"
+    ],
+    "baseUrl": ".",
+    "paths": {
+      "app": ["./app"],
+      "common": ["./app/common"],
+      "common/*": ["./app/common/*"],
+      "app/common/*": ["./app/common/*"],
+      "*": ["../../node_modules/@types/*", "*"]
+    }
+  },
+  "include": ["__tests__/**/*", "app/**/*", "scripts/**/*"],
+  "exclude": ["node_modules"]
+}

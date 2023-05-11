@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="07e701g7oa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.682353 0 0 0 0 0.721569 0 0 0 0 0.741176 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" filter="url(#07e701g7oa)">
+        <g>
+            <path stroke="#59646A" stroke-width="1.5" d="M0 3L15 3 15 0 0 0zM0 8.5L15 8.5 15 5.5 0 5.5zM0 14L15 14 15 11 0 11z" transform="translate(4.5 4.5)"/>
+        </g>
+    </g>
+</svg>

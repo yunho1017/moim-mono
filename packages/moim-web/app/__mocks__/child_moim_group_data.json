@@ -1,0 +1,41 @@
+{
+  "data": {
+    "id": "MG:32LG5SC6",
+    "groupId": "G0CUWIRCRG",
+    "userId": "UUIAMVY9L",
+    "title": "테스트2",
+    "query": {
+      "filters": [
+        {
+          "id": ["G08VNKQA3P", "G0FRETAU6F"]
+        }
+      ]
+    },
+    "listConfig": {
+      "showThumbnail": false,
+      "thumbnailConfig": {
+        "type": "ratio",
+        "value": "5:3",
+        "position": "top"
+      },
+      "showTitle": true,
+      "showText": false,
+      "showLikeCount": true,
+      "showReaction": true,
+      "showAuthor": true,
+      "showAuthorAvatar": true,
+      "reactionType": "up",
+      "showCommentCount": true,
+      "showDate": true,
+      "columnCount": 1,
+      "mobileColumnCount": 1,
+      "convertibleColumnCount": [1],
+      "mobileConvertibleColumnCount": [1],
+      "textAlignment": "LEFT",
+      "tagSets": [],
+      "tagSetFilterType": "NAVIGATION"
+    },
+    "description": "테스트용 2",
+    "createdAt": 1660813390518
+  }
+}

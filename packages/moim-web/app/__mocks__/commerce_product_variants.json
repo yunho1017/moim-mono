@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "G0QDW9VQBT",
+      "productId": "CP:2N2OMPDD",
+      "values": {
+        "length": "30",
+        "option1": "1"
+      },
+      "soldCount": 0,
+      "stockCount": 1,
+      "price": 500,
+      "originalPrice": 500,
+      "normalPrice": 500,
+      "shippingFee": 1000,
+      "estimatedDeliveryAt": 0,
+      "status": "onSale",
+      "createdAt": 1627027024646,
+      "updatedAt": 1627027024646
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.003">
+ <testsuite name="getTitle()" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="getTitle().when is mobile environment" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="getTitle().when is mobile environment.when current page is setting page" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="getTitle().when is mobile environment.when current page is setting page" name="should return value is null" time="0.001" />
+ </testsuite>
+ <testsuite name="getTitle().when is mobile environment.when current page is not a setting page" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0" errors="0" tests="1" skipped="1" disabled="0" failures="0">
+  <testcase classname="getTitle().when is mobile environment.when current page is not a setting page" name="should return mobile title" time="0">
+   <skipped message="Temporarily disabled with xit" />
+  </testcase>
+ </testsuite>
+ <testsuite name="getTitle().when is not a mobile environment" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="getTitle().when is not a mobile environment" name="should return title" time="0" />
+ </testsuite>
+</testsuites>

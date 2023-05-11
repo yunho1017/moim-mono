@@ -1,0 +1,84 @@
+{
+  "palette": {
+    "secondary": {
+      "dark": "#04050fff",
+      "light": "#d9deffff",
+      "main": "#4a64ffff"
+    },
+    "secondaryFogType": "WHITE",
+    "colorSet": {
+      "fog932": "#3d340052",
+      "snow1000": "#ffffffff",
+      "grey200": "#0a090024",
+      "white900": "#fffffffa",
+      "grey100": "#0a09000f",
+      "grey50": "#0a090005",
+      "color": "#ffd900ff",
+      "grey400": "#0a090061",
+      "grey300": "#0a09003d",
+      "grey600": "#0a0900a8",
+      "grey500": "#0a090085",
+      "fog50": "#0a090005",
+      "grey800": "#0a0900db",
+      "grey700": "#0a0900bd",
+      "grey900": "#0a0900fa",
+      "fog1090": "#141100e6",
+      "white300": "#ffffff57",
+      "fog908": "#3d340014",
+      "white400": "#ffffff7a",
+      "white100": "#ffffff24",
+      "text": "#000000de",
+      "white200": "#ffffff42",
+      "white700": "#ffffffdb",
+      "white800": "#fffffff0",
+      "white500": "#ffffff9e",
+      "white600": "#ffffffc2",
+      "fog800": "#0a0900db",
+      "fog900": "#0a0900fa",
+      "fog600": "#0a0900a8",
+      "fog700": "#0a0900bd",
+      "fog904": "#3d34000a",
+      "fog968": "#3d3400ad",
+      "fog100": "#0a09000f",
+      "fog400": "#0a090061",
+      "fog500": "#0a090085",
+      "fog200": "#0a090024",
+      "fog300": "#0a09003d",
+      "fog1000": "#141100ff",
+      "fog916": "#3d340029",
+      "fog1040": "#14110066",
+      "white50": "#ffffff0a"
+    },
+    "primaryFogType": "BLACK",
+    "primary": {
+      "dark": "#0f0d00ff",
+      "light": "#fff6caff",
+      "main": "#ffd900ff"
+    }
+  },
+  "element": {
+    "buttons": { "button": { "color": "PRIMARY_MAIN", "scale": "BLACK" } },
+    "sideArea": {
+      "background": { "color": "PRIMARY_MAIN", "scale": "BLACK" },
+      "categoryTitleText": { "color": "SECONDARY_MAIN", "scale": "WHITE" },
+      "childMoimNameText": { "scale": "BLACK" },
+      "menuText": { "scale": "BLACK" },
+      "others": { "scale": "BLACK" }
+    },
+    "topArea": {
+      "background": { "color": "SECONDARY_MAIN", "scale": "WHITE" },
+      "menuText": { "scale": "WHITE" },
+      "moimNameText": { "scale": "WHITE" },
+      "others": { "scale": "WHITE" }
+    },
+    "alert": {
+      "alertBadge": { "color": "#fb2942ff", "scale": "WHITE" }
+    },
+    "topSubArea": {
+      "background": { "color": "WHITE", "scale": "BLACK" },
+      "childMoimNameText": { "scale": "BLACK" },
+      "menuText": { "scale": "BLACK" }
+    }
+  },
+  "logo": "https://ca.edge.vg/i/vake_logo/logo"
+}

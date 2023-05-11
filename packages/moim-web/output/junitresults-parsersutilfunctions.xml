@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="13" time="0.306">
+ <testsuite name="parser&apos;s util functions" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.1" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.099" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give link" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give link" name="should tokenize properly " time="0.003" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give render spec mention" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give render spec mention" name="should tokenize properly " time="0.001" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give bold" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give bold" name="should tokenize properly " time="0.004" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give italic" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.002" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give italic" name="should tokenize properly " time="0.001" />
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give italic" name="case 2" time="0.001" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give inline code" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give inline code" name="should tokenize properly " time="0.001" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give code block" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give code block" name="should tokenize properly " time="0.001" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when give bold + italic" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.077" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when give bold + italic" name="should tokenize properly " time="0.077" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when inline code contain bold or italic tag" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when inline code contain bold or italic tag" name="should tokenize properly " time="0.003" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when given &lt;attr&gt;&lt;/attr&gt;" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.007" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when given &lt;attr&gt;&lt;/attr&gt;.as single use case" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when given &lt;attr&gt;&lt;/attr&gt;.as single use case" name="should return properly" time="0.004" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.regexTokenizer().when given &lt;attr&gt;&lt;/attr&gt;.as nested use case" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.regexTokenizer().when given &lt;attr&gt;&lt;/attr&gt;.as nested use case" name="should return properly" time="0.003" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.plainTextTokenizer()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.plainTextTokenizer()" name="should return text token" time="0.001" />
+ </testsuite>
+ <testsuite name="parser&apos;s util functions.reorderTokens()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="parser&apos;s util functions.reorderTokens()" name="should sort by asc" time="0" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="0.109">
+ <testsuite name="channel actions" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.037" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="channel actions.getChannels()" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.012" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="channel actions.getChannels().when succeed" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.008" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="channel actions.getChannels().when succeed" name="should dispatch action (START_GET_USERS, ADD_ENTITY, SUCCEEDED_FETCHING_CHANNEL_LIST)" time="0.008" />
+ </testsuite>
+ <testsuite name="channel actions.getChannels().when failed" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="channel actions.getChannels().when failed" name="should dispatch action (START_FETCHING_CHANNEL_LIST, FAILED_FETCHING_CHANNEL_LIST)" time="0.003" />
+ </testsuite>
+ <testsuite name="channel actions.deleteChannel()" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.024" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="channel actions.deleteChannel().when succeed" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.02" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="channel actions.deleteChannel().when succeed" name="should dispatch action (START_DELETE_CHANNEL,  SUCCEEDED_DELETE_CHANNEL ACTION)" time="0.02" />
+ </testsuite>
+ <testsuite name="channel actions.deleteChannel().when failed" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="channel actions.deleteChannel().when failed" name="should dispatch action (START_DELETE_CHANNEL, FAILED_DELETE_CHANNEL)" time="0.004" />
+ </testsuite>
+</testsuites>

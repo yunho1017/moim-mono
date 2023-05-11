@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "build": {
+    "env": {
+      "NPM_TOKEN": "8a0f808a-76b5-40a6-9b54-4b578ebaf0af"
+    }
+  }
+}

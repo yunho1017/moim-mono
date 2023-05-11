@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": "F6FUDBHZS",
+    "group": "G03PCGV9S",
+    "status": {
+      "name": "AVAILABLE",
+      "updated_at": 1582608936993
+    },
+    "created_at": 1582608930148,
+    "name": "SamplePNGImage_5mbmb.png",
+    "title": "SamplePNGImage_5mbmb.png",
+    "user": "U59S66BWP",
+    "mode": "hosted",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG Image",
+    "editable": false,
+    "is_starred": false,
+    "size": 5249494,
+    "is_public": true,
+    "public_url_shared": false,
+    "url_private": "https://files.vingle.network/files/G03PCGV9S/F6FUDBHZS/samplepngimage_5mbmb.png"
+  }
+}

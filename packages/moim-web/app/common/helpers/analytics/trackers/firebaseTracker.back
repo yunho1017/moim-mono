@@ -1,0 +1,56 @@
+import ITracker from "../ITracker";
+import { getAnalytics } from "../../firebase";
+
+declare global {
+  interface Window {
+    gtag: any;
+    dataLayer: any;
+    gaplugins: any;
+  }
+}
+
+class FirebaseTracker implements ITracker {
+  private analytics: firebase.analytics.Analytics | undefined;
+  public constructor() {
+    getAnalytics().then(analytics => {
+      this.analytics = analytics;
+    });
+
+    window.gtag("set", "linker");
+  }
+
+  public identifyUser(userId: string) {
+    if (!this.analytics) {
+      return;
+    }
+
+    this.analytics.setUserId(userId);
+  }
+
+  public event(
+    category: string,
+    action: string,
+    name?: string,
+    value?: number,
+    additionalParams?: { [key: string]: any },
+  ) {
+    this.analytics?.logEvent(action, {
+      event_category: category,
+      event_label: name,
+      event_value: value,
+      ...(additionalParams ?? {}),
+    });
+  }
+
+  public screenView(screenName: string, path: string) {
+    this.analytics?.logEvent("page_view", {
+      page_path: path,
+    });
+  }
+
+  public decorateLink(url: string) {
+    return url;
+  }
+}
+
+export default FirebaseTracker;

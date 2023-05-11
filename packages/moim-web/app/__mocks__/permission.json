@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "resource": "CM0YKYJHM",
+      "right": "READ_POST_LIST",
+      "applied_type": "ANYONE",
+      "appointed_at": 1589357451538
+    },
+    {
+      "resource": "CM0YKYJHM",
+      "right": "ACCESS",
+      "applied_type": "ANYONE",
+      "appointed_at": 1589357451502
+    },
+    {
+      "resource": "CM0YKYJHM",
+      "right": "READ_POST",
+      "applied_type": "ANYONE",
+      "appointed_at": 1589357451521
+    },
+    {
+      "resource": "CM0YKYJHM",
+      "right": "WRITE_COMMENT",
+      "applied_type": "MEMBERS",
+      "appointed_at": 1589357451578
+    },
+    {
+      "resource": "CM0YKYJHM",
+      "right": "VOTE",
+      "applied_type": "MEMBERS",
+      "appointed_at": 1589357451594
+    },
+    {
+      "resource": "CM0YKYJHM",
+      "right": "WRITE_POST",
+      "applied_type": "MEMBERS",
+      "appointed_at": 1589357451557
+    }
+  ]
+}

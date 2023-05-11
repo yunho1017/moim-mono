@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="6" time="0.02">
+ <testsuite name="Campaign Normalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.01" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Campaign Normalizer.campaignNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.007" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.campaignNormalizer" name="should able normalize" time="0.007" />
+ </testsuite>
+ <testsuite name="Campaign Normalizer.campaignListNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.campaignListNormalizer" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Campaign Normalizer.campaignExecutionNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.campaignExecutionNormalizer" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Campaign Normalizer.campaignExecutionListNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.campaignExecutionListNormalizer" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Campaign Normalizer.executionVoteNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.executionVoteNormalizer" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Campaign Normalizer.executionVoteListNormalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Campaign Normalizer.executionVoteListNormalizer" name="should able normalize" time="0.001" />
+ </testsuite>
+</testsuites>

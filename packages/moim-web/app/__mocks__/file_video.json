@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": "FJWDKAP84",
+    "group": "G03PCGV9S",
+    "status": {
+      "name": "AVAILABLE",
+      "updated_at": 1582609388213
+    },
+    "created_at": 1582609384078,
+    "name": "SampleVideo_1280x720_1mb.mp4",
+    "title": "SampleVideo_1280x720_1mb.mp4",
+    "user": "U59S66BWP",
+    "mode": "hosted",
+    "mimetype": "video/mp4",
+    "filetype": "mp4",
+    "pretty_type": "MP4 Video",
+    "editable": false,
+    "is_starred": false,
+    "size": 1055736,
+    "is_public": true,
+    "public_url_shared": false,
+    "url_private": "https://files.vingle.network/files/G03PCGV9S/FJWDKAP84/samplevideo_1280x720_1mb.mp4"
+  }
+}

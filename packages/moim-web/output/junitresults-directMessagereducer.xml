@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="9" time="0.014">
+ <testsuite name="directMessage reducer" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.004" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.when receive START_GET_DIRECT_MESSAGES" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.GET_DIRECT_MESSAGES.when receive START_GET_DIRECT_MESSAGES" name="should getDirectMessagesLoading set true" time="0.001" />
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES.when directMessages data is empty" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES.when directMessages data is empty" name="should getDirectMessagesLoading set false" time="0.001" />
+  <testcase classname="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES.when directMessages data is empty" name="should directMessages is payload.directMessages" time="0" />
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES.when directMessages is not empty" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.GET_DIRECT_MESSAGES.when receive SUCCEED_GET_DIRECT_MESSAGES.when directMessages is not empty" name="should data added from payload" time="0.001" />
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.GET_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.GET_DIRECT_MESSAGE.when receive SUCCEED_GET_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.GET_DIRECT_MESSAGES.when receive FAILED_GET_DIRECT_MESSAGES" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.GET_DIRECT_MESSAGES.when receive FAILED_GET_DIRECT_MESSAGES" name="should getDirectMessagesLoading set false" time="0" />
+ </testsuite>
+ <testsuite name="directMessage reducer.CREATE_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="directMessage reducer.CREATE_DIRECT_MESSAGE.START_CREATE_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.CREATE_DIRECT_MESSAGE.START_CREATE_DIRECT_MESSAGE" name="should set createDirectMessageLoading true" time="0" />
+ </testsuite>
+ <testsuite name="directMessage reducer.CREATE_DIRECT_MESSAGE.SUCCEED_CREATE_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.CREATE_DIRECT_MESSAGE.SUCCEED_CREATE_DIRECT_MESSAGE" name="should set createDirectMessageLoading false" time="0.001" />
+  <testcase classname="directMessage reducer.CREATE_DIRECT_MESSAGE.SUCCEED_CREATE_DIRECT_MESSAGE" name="should add directMessage data from payload" time="0" />
+ </testsuite>
+ <testsuite name="directMessage reducer.CREATE_DIRECT_MESSAGE.FAILED_CREATE_DIRECT_MESSAGE" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="directMessage reducer.CREATE_DIRECT_MESSAGE.FAILED_CREATE_DIRECT_MESSAGE" name="should set createDirectMessageLoading false" time="0" />
+ </testsuite>
+</testsuites>

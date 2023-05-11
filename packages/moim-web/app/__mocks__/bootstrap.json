@@ -1,0 +1,31 @@
+{
+  "data": {
+    "self": {
+      "group_id": "G06ESA4QI",
+      "id": "UEN3V00DF",
+      "name": "직박구리",
+      "avatar_url": "https://ca.edge.vg/i/G06ESA4QI-UEN3V00DF-akudlg--512",
+      "tz": "Asia/Seoul",
+      "is_deactivated": false,
+      "is_bot": false,
+      "positions": ["k8gwpgxe", "k8gx15nd"]
+    },
+    "preference": {
+      "locale": "ko-KR"
+    },
+    "group": {
+      "id": "G06ESA4QI",
+      "name": "새모임",
+      "domain": "bird-test",
+      "icon": {
+        "type": "image",
+        "data": {
+          "url": "https://ca.edge.vg/i/G06ESA4QI-fkplz4--256"
+        }
+      },
+      "is_public": true,
+      "created_at": 1585719933588,
+      "users_count": 1
+    }
+  }
+}

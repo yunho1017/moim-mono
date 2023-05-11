@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.002">
+ <testsuite name="Position denormalizer" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position denormalizer.positionDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position denormalizer.positionDenormalizer()" name="should access to creator property" time="0.001" />
+ </testsuite>
+ <testsuite name="Position denormalizer.positionSignleItemDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position denormalizer.positionSignleItemDenormalizer()" name="should access to creator property" time="0" />
+ </testsuite>
+ <testsuite name="Position denormalizer.positionListDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position denormalizer.positionListDenormalizer()" name="should access to creator property" time="0" />
+ </testsuite>
+</testsuites>

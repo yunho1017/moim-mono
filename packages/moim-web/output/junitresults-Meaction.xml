@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.576">
+ <testsuite name="Me action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.193" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Me action.updateMyProfile()" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.132" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Me action.updateMyProfile().when function work properly" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.007" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Me action.updateMyProfile().when function work properly" name="should return START, SUCCEEDED" time="0.007" />
+ </testsuite>
+ <testsuite name="Me action.updateMyProfile().when function didn&apos;t work properly" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.125" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Me action.updateMyProfile().when function didn&apos;t work properly" name="should return START, FAILED" time="0.125" />
+ </testsuite>
+ <testsuite name="Me action.getMyJoinedMoims()" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.06" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Me action.getMyJoinedMoims().when function work properly" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.059" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Me action.getMyJoinedMoims().when function work properly" name="should return START, ADD_ENTITY, SUCCEEDED" time="0.059" />
+ </testsuite>
+</testsuites>

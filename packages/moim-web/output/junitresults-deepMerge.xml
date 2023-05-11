@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.004">
+ <testsuite name="deepMerge()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="deepMerge().when inject sources" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="deepMerge().when inject sources" name="should merge object" time="0.001" />
+  <testcase classname="deepMerge().when inject sources" name="should first source is immutable" time="0" />
+ </testsuite>
+ <testsuite name="deepMerge().when sources has property that already existed" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="deepMerge().when sources has property that already existed" name="should override property that shallowly" time="0.001" />
+ </testsuite>
+</testsuites>

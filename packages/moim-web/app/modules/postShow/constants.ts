@@ -1,0 +1,1 @@
+export const POST_SHOW_MAX_CONTENT_WIDTH = 720;

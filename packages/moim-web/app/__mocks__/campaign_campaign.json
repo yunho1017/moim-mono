@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "CC:2QKFKUAB",
+      "parentGroupId": "G0CUWIRCRG",
+      "groupId": "G0CUWIRCRG",
+      "title": "TEST",
+      "description": "월드비전, 소셜벤처 크레파스 플러스, 무방이 함께하는 서울 거주 청년의 자립을 돕기 위한 주거보증금지원 캠페인",
+      "beneficiaryTarget": "아래 조건을 만족하는 청년 15명\n- 만19세~29세 이하 청년으로 무주택 구성원\n- 원 가족에서 독립했거나 독립하려는 청년\n- 중위소득 기준 80% 이하(1인가구 기준 1,462,265원) 충족\n- 2021년 내 이사/독립을 계획 중인 청년",
+      "creatorId": "UGSZKYO1F",
+      "positions": {
+        "donor": {
+          "community": 2,
+          "moim": "PMMQP58XS"
+        }
+      },
+      "startAt": 1634630700000,
+      "endAt": 1637308800000,
+      "fundingStartAt": 1634630700000,
+      "fundingEndAt": 1637308800000,
+      "executionStartAt": 1634630700000,
+      "executionEndAt": 1637308800000,
+      "token": {
+        "symbol": "ACT",
+        "code": "vake.t",
+        "decimal": 6,
+        "price": 1000
+      },
+      "groupAccount": "taewoomoim.c",
+      "communityAccount": "taewcamp5.c",
+      "codes": {
+        "execProposal": 14
+      },
+      "proposalName": "uf31dlkeqa1h",
+      "nodeId": "Q2FtcGFpZ246anBfNV8tZXlPRzdnNllFSTVZaWdL",
+      "raisedAmount": 93000,
+      "productIds": ["CP:2Q3B8B48"],
+      "executionIds": ["CE:2QSZVGSK"],
+      "createdAt": 1634630559059,
+      "updatedAt": 1635152217406
+    },
+    {
+      "id": "CC:2Q8WOKM2",
+      "groupId": "G0CUWIRCRG",
+      "title": "월간언니",
+      "description": "가정밖 청소년들에게 월경생활키트를 후원하고 건강한 월경을 위한 컨텐츠를 나누는 캠페인 ",
+      "beneficiaryTarget": "전국 여자 청소년 쉼터의 보호를 받는 만19세 이하 아동청소년 200명 이상",
+      "creatorId": "UMVXS0G4N",
+      "startAt": 1633878000000,
+      "endAt": 1638284400000,
+      "fundingStartAt": 1633933800000,
+      "fundingEndAt": 1636729200000,
+      "executionStartAt": 1635692400000,
+      "executionEndAt": 1638262800000,
+      "deployedAt": 1633933725583,
+      "token": {
+        "symbol": "ACT",
+        "code": "vake.t",
+        "decimal": 6,
+        "price": 1000
+      },
+      "groupAccount": "vake.c",
+      "communityAccount": "vakedemo1.c",
+      "codes": {
+        "execProposal": 11
+      },
+      "proposalName": "anfmlvpsy3ok",
+      "nodeId": "Q2FtcGFpZ246TGI2ckVwNUI1Sk11Rm1PbjUwLTZT",
+      "productIds": [],
+      "executionIds": [],
+      "createdAt": 1633933692506,
+      "updatedAt": 1633933725583
+    },
+    {
+      "id": "CC:2Q4RYD5P",
+      "groupId": "G0CUWIRCRG",
+      "title": "test4",
+      "description": "test4",
+      "beneficiaryTarget": "test",
+      "creatorId": "UGSZKYO1F",
+      "startAt": 1632963600000,
+      "endAt": 1637334000000,
+      "fundingStartAt": 1634000400000,
+      "fundingEndAt": 1634720400000,
+      "executionStartAt": 1634778000000,
+      "executionEndAt": 1637312400000,
+      "deployedAt": 1633683914286,
+      "token": {
+        "symbol": "TOK",
+        "code": "issuertest11",
+        "decimal": 4,
+        "price": 100000
+      },
+      "groupAccount": "taewoomoim.c",
+      "communityAccount": "taewcamp4.c",
+      "codes": {
+        "execProposal": 11
+      },
+      "proposalName": "mx1im4tijuk5",
+      "nodeId": "Q2FtcGFpZ246a21wekp3RU0yZHdVWHBfSk1WT21r",
+      "productIds": [],
+      "executionIds": [],
+      "createdAt": 1633683886621,
+      "updatedAt": 1633683914286
+    }
+  ],
+  "paging": {}
+}

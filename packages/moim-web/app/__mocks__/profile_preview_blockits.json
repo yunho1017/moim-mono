@@ -1,0 +1,21 @@
+[
+  {
+    "maxLine": 3,
+    "type": "positions",
+    "chipSize": "small"
+  },
+  {
+    "badgeSize": "small",
+    "maxLine": 1,
+    "type": "badges",
+    "showTitle": false
+  },
+  {
+    "blockId": "profile-preview-token-USERNAME",
+    "params": {
+      "canUsername": "uxgubfhxojug"
+    },
+    "type": "reference",
+    "replaceId": "tokens"
+  }
+]

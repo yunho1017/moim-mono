@@ -1,0 +1,542 @@
+{
+  "data": [
+    {
+      "id": "CU:2M9P2YU8",
+      "parentSellerId": "FYPCBR4ZV7",
+      "sellerId": "FYRY9KYDDO",
+      "status": "paid",
+      "paymentId": "CY:2M9P2YTV",
+      "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+      "sourceUrl": "https://xn--299ay4f1sk.net/commerce/products/FYQWNVIA9M?pr_tag=PR-1612",
+      "totalPrice": 1000,
+      "deliveryFee": 0,
+      "currency": "KRW",
+      "buyerName": "FE_윤호",
+      "buyerPhone": "123",
+      "memo": "test",
+      "anonymous": false,
+      "createdAt": 1625274264032,
+      "updatedAt": 1625274264145,
+      "payment": {
+        "id": "CY:2M9P2YTV",
+        "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+        "sellerId": "FYPCBR4ZV7",
+        "accountId": "test",
+        "mid": "nicepay00m",
+        "status": "paid",
+        "buyerName": "FE_윤호",
+        "buyerPhone": "123",
+        "currency": "KRW",
+        "amount": 800,
+        "refundedAmount": 0,
+        "productName": "거제 참소라 (자연산)",
+        "paidAt": 1625274264075,
+        "createdAt": 1625274264019,
+        "updatedAt": 1625274264138,
+        "ediDate": "20210703100424",
+        "usedCredit": 100
+      },
+      "items": [
+        {
+          "type": "deliveryGroup",
+          "deliveryFee": 0,
+          "totalPrice": 0,
+          "items": [
+            {
+              "purchaseId": "CU:2M9P2YU8",
+              "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+              "sellerId": "FYRY9KYDDO",
+              "seller": {
+                "accountIds": ["test"],
+                "createdAt": 1621507509301,
+                "id": "FYRY9KYDDO",
+                "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+                "name": "울산 정자어장 (왕실호)",
+                "parentId": "FYPCBR4ZV7",
+                "updatedAt": 1621507509301
+              },
+              "productId": "FYQWNVIA9M",
+              "product": {
+                "accountIds": ["test"],
+                "buyersCount": 0,
+                "categories": [
+                  {
+                    "createdAt": 1621305463307,
+                    "id": "FYPDG3ZIRT",
+                    "items": [],
+                    "name": "[Mock]소라류",
+                    "parentId": "FYPCBR4ZV7",
+                    "sellerId": "FYPCBR4ZV7",
+                    "sortKey": "X1621305463307",
+                    "updatedAt": 1621305463307
+                  }
+                ],
+                "categoryIds": ["FYPDG3ZIRT"],
+                "createdAt": 1621425655824,
+                "currency": "KRW",
+                "description": "다른 지역 참소라와 비교 불가, 참소라계의 귀족 / 최소단위 1kg",
+                "id": "FYQWNVIA9M",
+                "imageUrls": [
+                  "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg"
+                ],
+                "name": "거제 참소라 (자연산)",
+                "originalPrice": "24750",
+                "phoneNumberRequired": false,
+                "pidRequired": false,
+                "price": "24750",
+                "seller": {
+                  "accountIds": ["test"],
+                  "createdAt": 1621507509301,
+                  "id": "FYRY9KYDDO",
+                  "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+                  "name": "울산 정자어장 (왕실호)",
+                  "parentId": "FYPCBR4ZV7",
+                  "updatedAt": 1621507509301
+                },
+                "sellerId": "FYRY9KYDDO",
+                "shippingFee": 0,
+                "shippingRequired": true,
+                "soldAmount": 0,
+                "soldCount": 0,
+                "status": "onSale",
+                "type": "normal",
+                "updatedAt": 1621564014930
+              },
+              "productName": "거제 참소라 (자연산)",
+              "imageUrl": "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg",
+              "price": 1000,
+              "quantity": 1,
+              "refundedQuantity": 0,
+              "anonymous": false,
+              "createdAt": 1625274264047,
+              "updatedAt": 1625274264146,
+              "paidAt": 1625274264075,
+              "creditAmount": 800,
+              "creditExpiration": 180,
+              "status": "paid"
+            }
+          ]
+        }
+      ],
+      "purchaseItems": [
+        {
+          "purchaseId": "CU:2M9P2YU8",
+          "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+          "sellerId": "FYRY9KYDDO",
+          "seller": {
+            "accountIds": ["test"],
+            "createdAt": 1621507509301,
+            "id": "FYRY9KYDDO",
+            "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+            "name": "울산 정자어장 (왕실호)",
+            "parentId": "FYPCBR4ZV7",
+            "updatedAt": 1621507509301
+          },
+          "productId": "FYQWNVIA9M",
+          "product": {
+            "accountIds": ["test"],
+            "buyersCount": 0,
+            "categories": [
+              {
+                "createdAt": 1621305463307,
+                "id": "FYPDG3ZIRT",
+                "items": [],
+                "name": "[Mock]소라류",
+                "parentId": "FYPCBR4ZV7",
+                "sellerId": "FYPCBR4ZV7",
+                "sortKey": "X1621305463307",
+                "updatedAt": 1621305463307
+              }
+            ],
+            "categoryIds": ["FYPDG3ZIRT"],
+            "createdAt": 1621425655824,
+            "currency": "KRW",
+            "description": "다른 지역 참소라와 비교 불가, 참소라계의 귀족 / 최소단위 1kg",
+            "id": "FYQWNVIA9M",
+            "imageUrls": [
+              "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg"
+            ],
+            "name": "거제 참소라 (자연산)",
+            "originalPrice": "24750",
+            "phoneNumberRequired": false,
+            "pidRequired": false,
+            "price": "24750",
+            "seller": {
+              "accountIds": ["test"],
+              "createdAt": 1621507509301,
+              "id": "FYRY9KYDDO",
+              "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+              "name": "울산 정자어장 (왕실호)",
+              "parentId": "FYPCBR4ZV7",
+              "updatedAt": 1621507509301
+            },
+            "sellerId": "FYRY9KYDDO",
+            "shippingFee": 0,
+            "shippingRequired": true,
+            "soldAmount": 0,
+            "soldCount": 0,
+            "status": "onSale",
+            "type": "normal",
+            "updatedAt": 1621564014930
+          },
+          "productName": "거제 참소라 (자연산)",
+          "imageUrl": "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg",
+          "price": 1000,
+          "quantity": 1,
+          "refundedQuantity": 0,
+          "anonymous": false,
+          "createdAt": 1625274264047,
+          "updatedAt": 1625274264146,
+          "paidAt": 1625274264075,
+          "creditAmount": 800,
+          "creditExpiration": 180,
+          "status": "paid"
+        }
+      ],
+      "refunds": []
+    },
+    {
+      "id": "CU:2M9P2YPH",
+      "parentSellerId": "FYPCBR4ZV7",
+      "sellerId": "FYRY9KYDDO",
+      "status": "paid",
+      "paymentId": "CY:2M9P2YP2",
+      "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+      "sourceUrl": "https://xn--299ay4f1sk.net/commerce/products/FYQWNVIA9M?pr_tag=PR-1612",
+      "totalPrice": 1000,
+      "deliveryFee": 0,
+      "currency": "KRW",
+      "buyerName": "FE_윤호",
+      "buyerPhone": "123",
+      "memo": "test",
+      "anonymous": false,
+      "createdAt": 1625274263861,
+      "updatedAt": 1625274263923,
+      "payment": {
+        "id": "CY:2M9P2YP2",
+        "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+        "sellerId": "FYPCBR4ZV7",
+        "accountId": "test",
+        "mid": "nicepay00m",
+        "status": "paid",
+        "buyerName": "FE_윤호",
+        "buyerPhone": "123",
+        "currency": "KRW",
+        "amount": 1000,
+        "refundedAmount": 0,
+        "productName": "거제 참소라 (자연산)",
+        "paidAt": 1625274263914,
+        "createdAt": 1625274263846,
+        "updatedAt": 1625274263914,
+        "ediDate": "20210703100423",
+        "usedCredit": 0
+      },
+      "purchaseItems": [
+        {
+          "purchaseId": "CU:2M9P2YPH",
+          "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+          "sellerId": "FYRY9KYDDO",
+          "seller": {
+            "accountIds": ["test"],
+            "createdAt": 1621507509301,
+            "id": "FYRY9KYDDO",
+            "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+            "name": "울산 정자어장 (왕실호)",
+            "parentId": "FYPCBR4ZV7",
+            "updatedAt": 1621507509301
+          },
+          "productId": "FYQWNVIA9M",
+          "product": {
+            "accountIds": ["test"],
+            "buyersCount": 0,
+            "categories": [
+              {
+                "createdAt": 1621305463307,
+                "id": "FYPDG3ZIRT",
+                "items": [],
+                "name": "[Mock]소라류",
+                "parentId": "FYPCBR4ZV7",
+                "sellerId": "FYPCBR4ZV7",
+                "sortKey": "X1621305463307",
+                "updatedAt": 1621305463307
+              }
+            ],
+            "categoryIds": ["FYPDG3ZIRT"],
+            "createdAt": 1621425655824,
+            "currency": "KRW",
+            "description": "다른 지역 참소라와 비교 불가, 참소라계의 귀족 / 최소단위 1kg",
+            "id": "FYQWNVIA9M",
+            "imageUrls": [
+              "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg"
+            ],
+            "name": "거제 참소라 (자연산)",
+            "originalPrice": "24750",
+            "phoneNumberRequired": false,
+            "pidRequired": false,
+            "price": "24750",
+
+            "seller": {
+              "accountIds": ["test"],
+              "createdAt": 1621507509301,
+              "id": "FYRY9KYDDO",
+              "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+              "name": "울산 정자어장 (왕실호)",
+              "parentId": "FYPCBR4ZV7",
+              "updatedAt": 1621507509301
+            },
+            "sellerId": "FYRY9KYDDO",
+            "shippingFee": 0,
+            "shippingRequired": true,
+            "soldAmount": 0,
+            "soldCount": 0,
+            "status": "onSale",
+            "type": "normal",
+            "updatedAt": 1621564014930
+          },
+          "productName": "거제 참소라 (자연산)",
+          "imageUrl": "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg",
+          "price": 1000,
+          "quantity": 1,
+          "refundedQuantity": 0,
+          "anonymous": false,
+          "createdAt": 1625274263883,
+          "updatedAt": 1625274263924,
+          "paidAt": 1625274263914,
+          "creditAmount": 800,
+          "creditExpiration": 180,
+          "status": "paid"
+        }
+      ],
+      "refunds": []
+    },
+    {
+      "id": "CU:2M9OXHH6",
+      "parentSellerId": "FYPCBR4ZV7",
+      "sellerId": "FYRY9KYDDO",
+      "status": "paid",
+      "paymentId": "CY:2M9OXHGM",
+      "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+      "sourceUrl": "https://xn--299ay4f1sk.net/commerce/products/FYQWNVIA9M?pr_tag=PR-1612",
+      "totalPrice": 1000,
+      "deliveryFee": 0,
+      "currency": "KRW",
+      "buyerName": "FE_윤호",
+      "buyerPhone": "123",
+      "memo": "test",
+      "anonymous": false,
+      "createdAt": 1625274008250,
+      "updatedAt": 1625274008310,
+      "payment": {
+        "id": "CY:2M9OXHGM",
+        "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+        "sellerId": "FYPCBR4ZV7",
+        "accountId": "test",
+        "mid": "nicepay00m",
+        "status": "paid",
+        "buyerName": "FE_윤호",
+        "buyerPhone": "123",
+        "currency": "KRW",
+        "amount": 1000,
+        "refundedAmount": 0,
+        "productName": "거제 참소라 (자연산)",
+        "paidAt": 1625274008301,
+        "createdAt": 1625274008230,
+        "updatedAt": 1625274008301,
+        "ediDate": "20210703100008",
+        "usedCredit": 0
+      },
+      "purchaseItems": [
+        {
+          "purchaseId": "CU:2M9OXHH6",
+          "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+          "sellerId": "FYRY9KYDDO",
+          "seller": {
+            "accountIds": ["test"],
+            "createdAt": 1621507509301,
+            "id": "FYRY9KYDDO",
+            "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+            "name": "울산 정자어장 (왕실호)",
+            "parentId": "FYPCBR4ZV7",
+            "updatedAt": 1621507509301
+          },
+          "productId": "FYQWNVIA9M",
+          "product": {
+            "accountIds": ["test"],
+            "buyersCount": 0,
+            "categories": [
+              {
+                "createdAt": 1621305463307,
+                "id": "FYPDG3ZIRT",
+                "items": [],
+                "name": "[Mock]소라류",
+                "parentId": "FYPCBR4ZV7",
+                "sellerId": "FYPCBR4ZV7",
+                "sortKey": "X1621305463307",
+                "updatedAt": 1621305463307
+              }
+            ],
+            "categoryIds": ["FYPDG3ZIRT"],
+            "createdAt": 1621425655824,
+            "currency": "KRW",
+            "description": "다른 지역 참소라와 비교 불가, 참소라계의 귀족 / 최소단위 1kg",
+            "id": "FYQWNVIA9M",
+            "imageUrls": [
+              "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg"
+            ],
+            "name": "거제 참소라 (자연산)",
+            "originalPrice": "24750",
+            "phoneNumberRequired": false,
+            "pidRequired": false,
+            "price": "24750",
+            "seller": {
+              "accountIds": ["test"],
+              "createdAt": 1621507509301,
+              "id": "FYRY9KYDDO",
+              "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+              "name": "울산 정자어장 (왕실호)",
+              "parentId": "FYPCBR4ZV7",
+              "updatedAt": 1621507509301
+            },
+            "sellerId": "FYRY9KYDDO",
+            "shippingFee": 0,
+            "shippingRequired": true,
+            "soldAmount": 0,
+            "soldCount": 0,
+            "status": "onSale",
+            "type": "normal",
+            "updatedAt": 1621564014930
+          },
+          "productName": "거제 참소라 (자연산)",
+          "imageUrl": "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg",
+          "price": 1000,
+          "quantity": 1,
+          "refundedQuantity": 0,
+          "anonymous": false,
+          "createdAt": 1625274008265,
+          "updatedAt": 1625274008311,
+          "paidAt": 1625274008301,
+          "creditAmount": 800,
+          "creditExpiration": 180,
+          "status": "paid"
+        }
+      ],
+      "refunds": []
+    },
+    {
+      "id": "CU:2M9OUN3B",
+      "parentSellerId": "FYPCBR4ZV7",
+      "sellerId": "FYRY9KYDDO",
+      "status": "paid",
+      "paymentId": "CY:2M9OUN2V",
+      "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+      "sourceUrl": "https://xn--299ay4f1sk.net/commerce/products/FYQWNVIA9M?pr_tag=PR-1612",
+      "totalPrice": 1000,
+      "deliveryFee": 0,
+      "currency": "KRW",
+      "buyerName": "FE_윤호",
+      "buyerPhone": "123",
+      "memo": "test",
+      "anonymous": false,
+      "createdAt": 1625273875559,
+      "updatedAt": 1625273875619,
+      "payment": {
+        "id": "CY:2M9OUN2V",
+        "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+        "sellerId": "FYPCBR4ZV7",
+        "accountId": "test",
+        "mid": "nicepay00m",
+        "status": "paid",
+        "buyerName": "FE_윤호",
+        "buyerPhone": "123",
+        "currency": "KRW",
+        "amount": 1000,
+        "refundedAmount": 0,
+        "productName": "거제 참소라 (자연산)",
+        "paidAt": 1625273875612,
+        "createdAt": 1625273875543,
+        "updatedAt": 1625273875612,
+        "ediDate": "20210703095755",
+        "usedCredit": 0
+      },
+      "purchaseItems": [
+        {
+          "purchaseId": "CU:2M9OUN3B",
+          "userId": "VXNlcjpkZmYwYTljZC04M2UwLTQ5OWYtYmNiMS04MDRmZDE1NDlkOGI=",
+          "sellerId": "FYRY9KYDDO",
+          "seller": {
+            "accountIds": ["test"],
+            "createdAt": 1621507509301,
+            "id": "FYRY9KYDDO",
+            "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+            "name": "울산 정자어장 (왕실호)",
+            "parentId": "FYPCBR4ZV7",
+            "updatedAt": 1621507509301
+          },
+          "productId": "FYQWNVIA9M",
+          "product": {
+            "accountIds": ["test"],
+            "buyersCount": 0,
+            "categories": [
+              {
+                "createdAt": 1621305463307,
+                "id": "FYPDG3ZIRT",
+                "items": [],
+                "name": "[Mock]소라류",
+                "parentId": "FYPCBR4ZV7",
+                "sellerId": "FYPCBR4ZV7",
+                "sortKey": "X1621305463307",
+                "updatedAt": 1621305463307
+              }
+            ],
+            "categoryIds": ["FYPDG3ZIRT"],
+            "createdAt": 1621425655824,
+            "currency": "KRW",
+            "description": "다른 지역 참소라와 비교 불가, 참소라계의 귀족 / 최소단위 1kg",
+            "id": "FYQWNVIA9M",
+            "imageUrls": [
+              "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg"
+            ],
+            "name": "거제 참소라 (자연산)",
+            "originalPrice": "24750",
+            "phoneNumberRequired": false,
+            "pidRequired": false,
+            "price": "24750",
+            "seller": {
+              "accountIds": ["test"],
+              "createdAt": 1621507509301,
+              "id": "FYRY9KYDDO",
+              "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+              "name": "울산 정자어장 (왕실호)",
+              "parentId": "FYPCBR4ZV7",
+              "updatedAt": 1621507509301
+            },
+            "sellerId": "FYRY9KYDDO",
+            "shippingFee": 0,
+            "shippingRequired": true,
+            "soldAmount": 0,
+            "soldCount": 0,
+            "status": "onSale",
+            "type": "normal",
+            "updatedAt": 1621564014930
+          },
+          "productName": "거제 참소라 (자연산)",
+          "imageUrl": "http://xn--hq1b99vojf6xm.com/data/padobox/goods/a001/big/2020232512875741.jpg",
+          "price": 1000,
+          "quantity": 1,
+          "refundedQuantity": 0,
+          "anonymous": false,
+          "createdAt": 1625273875577,
+          "updatedAt": 1625273875620,
+          "paidAt": 1625273875612,
+          "creditAmount": 800,
+          "creditExpiration": 180,
+          "status": "paid"
+        }
+      ],
+      "refunds": []
+    }
+  ],
+  "paging": {
+    "total": 4
+  }
+}

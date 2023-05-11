@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="0.442">
+ <testsuite name="&lt;BrochureThumbnail /&gt;" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.442" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;BrochureThumbnail /&gt;" name="should contain data-role" time="0.441" />
+ </testsuite>
+</testsuites>

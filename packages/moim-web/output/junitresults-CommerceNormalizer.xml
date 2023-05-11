@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="0.014">
+ <testsuite name="Commerce Normalizer" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.007" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Commerce Normalizer.sellerNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.sellerNormalizer()" name="should able normalize" time="0.002" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.sellerListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.sellerListNormalizer()" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.productNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.productNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.productListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.productListNormalizer()" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.productSetNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.productSetNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.productSetListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.productSetListNormalizer()" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.commerceCategoryNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.commerceCategoryNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.commerceCategoryListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.commerceCategoryListNormalizer()" name="should able normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.cartResponseNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.cartResponseNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.paymentListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.paymentListNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.shippingAddressNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.shippingAddressNormalizer()" name="should able normalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Normalizer.shippingAddressListNormalizer()" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Normalizer.shippingAddressListNormalizer()" name="should able normalize" time="0.001" />
+ </testsuite>
+</testsuites>

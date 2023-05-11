@@ -1,0 +1,119 @@
+{
+  "id": "FZ7GU34WBY",
+  "type": "normal",
+  "shippingRequired": true,
+  "phoneNumberRequired": false,
+  "pidRequired": false,
+  "sellerId": "FYPCBR4ZV7",
+  "categoryIds": ["FYPDGBE8FX", "FYPDFRZKTT"],
+  "accountIds": ["test"],
+  "userId": "VXNlcjowNmMzYjAzZC03ZTU5LTRhYjItODUzZC04Y2E4MzVmZTYyZjU=",
+  "name": "상품2",
+  "description": "요약2",
+  "price": 1000,
+  "currency": "KRW",
+  "originalPrice": 1000,
+  "shippingFee": 0,
+  "stockCount": 100,
+  "soldCount": 0,
+  "soldAmount": 0,
+  "buyersCount": 0,
+  "status": "onSale",
+  "customFields": [],
+  "options": [
+    {
+      "items": [
+        {
+          "description": {
+            "en": "값1"
+          },
+          "title": {
+            "en": "값1"
+          },
+          "value": "VALUE1",
+          "imageUrl": "https://files.vingle.network/files/G0VEUOBM0W/F9IR9BRCC/___________2020-11-13______2.27.42.png"
+        }
+      ],
+      "key": "OPTION1",
+      "label": {
+        "en": "옵션"
+      }
+    }
+  ],
+  "completeMessage": {
+    "title": {
+      "en": "완료2"
+    },
+    "description": {
+      "en": "완료2"
+    }
+  },
+  "completeImageUrl": "https://files.vingle.network/files/G0VEUOBM0W/FDOP341Z4/___________2020-11-25______6.30.17.png",
+  "details": [
+    {
+      "value": "어류",
+      "key": "종류"
+    }
+  ],
+  "images": {
+    "mobile": [
+      {
+        "width": 17,
+        "url": "https://files.vingle.network/files/G0VEUOBM0W/F28WBB1LG/___________2020-11-12______4.28.47.png",
+        "height": 7
+      }
+    ],
+    "web": [
+      {
+        "width": 700,
+        "url": "https://files.vingle.network/files/G0VEUOBM0W/FNUDUWA1B/___________2020-11-12______4.29.17.png",
+        "height": 666
+      }
+    ]
+  },
+  "detailImages": {
+    "mobile": [
+      {
+        "width": 700,
+        "url": "https://files.vingle.network/files/G0VEUOBM0W/F9MIJ9O89/___________2020-11-12______4.29.17.png",
+        "height": 666
+      }
+    ],
+    "web": [
+      {
+        "width": 834,
+        "url": "https://files.vingle.network/files/G0VEUOBM0W/FJ42UMF3G/___________2020-11-12______4.28.53.png",
+        "height": 790
+      }
+    ]
+  },
+  "repliesCount": 0,
+  "createdAt": 1622723393705,
+  "updatedAt": 1623051803929,
+  "productVariants": [
+    {
+      "id": "FZ7GU35BG5",
+      "productId": "FZ7GU34WBY",
+      "values": {
+        "OPTION1": "VALUE1"
+      },
+      "soldCount": 0,
+      "stockCount": 10,
+      "price": 10,
+      "originalPrice": 10,
+      "shippingFee": 10,
+      "estimatedDeliveryAt": 10,
+      "status": "onSale",
+      "createdAt": 1622723393725,
+      "updatedAt": 1622723393725
+    }
+  ],
+  "seller": {
+    "id": "FYPCBR4ZV7",
+    "groupId": "G0VEUOBM0W",
+    "name": "comone",
+    "accountIds": ["test"],
+    "createdAt": 1621303023080,
+    "updatedAt": 1621303023080
+  }
+}

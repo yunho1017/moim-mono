@@ -1,11 +1,5 @@
-# `moim-web`
+![CI](https://github.com/balmbees/moim-web/workflows/CI/badge.svg)
+# moim-web
 
-> TODO: description
+## Demo
 
-## Usage
-
-```
-const moimWeb = require('moim-web');
-
-// TODO: DEMONSTRATE API
-```

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.012">
+ <testsuite name="Files Entity reducer" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.005" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch ADD_ENTITY action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Files Entity reducer.when dispatch ADD_ENTITY action" name="should add file entity" time="0.001" />
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch setFileUploadStatus action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch setFileUploadStatus action.first time added" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Files Entity reducer.when dispatch setFileUploadStatus action.first time added" name="should add file entity" time="0.001" />
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch setFileUploadStatus action.already added but different status &amp; fields" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Files Entity reducer.when dispatch setFileUploadStatus action.already added but different status &amp; fields" name="should add file entity" time="0.001" />
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch DELETE_FILE action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Files Entity reducer.when dispatch DELETE_FILE action" name="should delete file entity" time="0.001" />
+ </testsuite>
+ <testsuite name="Files Entity reducer.when dispatch FAILED_FILE_UPLOAD action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Files Entity reducer.when dispatch FAILED_FILE_UPLOAD action" name="should set file status to FAILED" time="0.001" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": "FC7EAUXLF",
+    "group": "G03PCGV9S",
+    "status": {
+      "name": "AVAILABLE",
+      "updated_at": 1581920100798
+    },
+    "created_at": 1581920070404,
+    "name": "image.jpg",
+    "title": "image",
+    "user": "U59S66BWP",
+    "mode": "hosted",
+    "mimetype": "image/jpeg",
+    "filetype": "jpg",
+    "pretty_type": "JPEG Image",
+    "editable": false,
+    "is_starred": false,
+    "size": 7936220,
+    "is_public": true,
+    "public_url_shared": false,
+    "url_private": "files/G03PCGV9S/FC7EAUXLF/image.jpg"
+  }
+}

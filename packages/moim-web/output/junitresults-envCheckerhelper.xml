@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="11" time="0.02">
+ <testsuite name="envChecker helper" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.007" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="envChecker helper.isElectronApp()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.004" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="envChecker helper.isElectronApp().when it&apos;s electron app" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isElectronApp().when it&apos;s electron app" name="should return true" time="0.003" />
+ </testsuite>
+ <testsuite name="envChecker helper.isElectronApp().when it&apos;s regular browser" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isElectronApp().when it&apos;s regular browser" name="should return false" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain().when given regular hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isHubDomain().when given regular hostname" name="should return true" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain().when given www. hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isHubDomain().when given www. hostname" name="should return true" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain().when given group hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isHubDomain().when given group hostname" name="should return false" time="0.001" />
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain().when given group hostname with Caps" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isHubDomain().when given group hostname with Caps" name="should return false" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isHubDomain().when given group hostname with different host" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isHubDomain().when given group hostname with different host" name="should return false" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isGroupDomain()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="envChecker helper.isGroupDomain().when given regular hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isGroupDomain().when given regular hostname" name="should return false" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isGroupDomain().when given www. hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isGroupDomain().when given www. hostname" name="should return false" time="0.001" />
+ </testsuite>
+ <testsuite name="envChecker helper.isGroupDomain().when given group hostname" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isGroupDomain().when given group hostname" name="should return true" time="0" />
+ </testsuite>
+ <testsuite name="envChecker helper.isGroupDomain().when given group hostname with Caps" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="envChecker helper.isGroupDomain().when given group hostname with Caps" name="should return true" time="0" />
+ </testsuite>
+</testsuites>

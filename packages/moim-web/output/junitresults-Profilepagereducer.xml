@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.004">
+ <testsuite name="Profile page reducer" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Profile page reducer.when dispatch START_FETCHING_PROFILE" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Profile page reducer.when dispatch START_FETCHING_PROFILE" name="should change isLoading to true, isFailed to false" time="0.001" />
+ </testsuite>
+ <testsuite name="Profile page reducer.when dispatch SUCCEED_FETCHING_PROFILE" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Profile page reducer.when dispatch SUCCEED_FETCHING_PROFILE" name="should change isLoading to false" time="0.001" />
+ </testsuite>
+ <testsuite name="Profile page reducer.when dispatch FAILED_FETCHING_PROFILE" timestamp="2022-12-15T18:03:23" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Profile page reducer.when dispatch FAILED_FETCHING_PROFILE" name="should change isLoading to false, isFailed to true" time="0" />
+ </testsuite>
+</testsuites>

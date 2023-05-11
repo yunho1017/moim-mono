@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="20" time="1.502">
+ <testsuite name="Position Action" timestamp="2022-12-15T18:03:13" hostname="localhost" time="0.508" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.getPositions()" timestamp="2022-12-15T18:03:13" hostname="localhost" time="0.075" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.getPositions().when succeed" timestamp="2022-12-15T18:03:13" hostname="localhost" time="0.048" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositions().when succeed" name="should dispatch START_GET_POSITIONS, ADD_ENTITY, SUCCEED_GET_POSITIONS action" time="0.047" />
+ </testsuite>
+ <testsuite name="Position Action.getPositions().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.025" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositions().when failed" name="should dispatch START_GET_POSITIONS, FAILED_GET_POSITIONS" time="0.023" />
+ </testsuite>
+ <testsuite name="Position Action.getPosition()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.023" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.getPosition().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.013" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPosition().when succeed" name="should dispatch START_GET_POSITION, ADD_ENTITY, SUCCEED_GET_POSITION action" time="0.013" />
+ </testsuite>
+ <testsuite name="Position Action.getPosition().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.009" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPosition().when failed" name="should dispatch START_GET_POSITION, FAILED_GET_POSITION" time="0.008" />
+ </testsuite>
+ <testsuite name="Position Action.getPositionsBatch()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.013" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.getPositionsBatch().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.007" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositionsBatch().when succeed" name="should dispatch START_GET_POSITIONS_BATCH, ADD_ENTITY, SUCCEED_GET_POSITIONS_BATCH action" time="0.007" />
+ </testsuite>
+ <testsuite name="Position Action.getPositionsBatch().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.006" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositionsBatch().when failed" name="should dispatch START_GET_POSITIONS_BATCH, FAILED_GET_POSITIONS_BATCH" time="0.005" />
+ </testsuite>
+ <testsuite name="Position Action.createPosition()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.015" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.createPosition().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.013" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.createPosition().when succeed" name="should dispatch START_CREATE_POSITION, ADD_ENTITY, SUCCEED_CREATE_POSITION action" time="0.011" />
+ </testsuite>
+ <testsuite name="Position Action.createPosition().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.createPosition().when failed" name="should dispatch START_CREATE_POSITION, FAILED_CREATE_POSITION" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Action.appointPosition()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.195" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.appointPosition().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.186" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.appointPosition().when succeed" name="should dispatch START_APPOINT_POSITION, ADD_ENTITY, SUCCEED_APPOINT_POSITION action" time="0.186" />
+ </testsuite>
+ <testsuite name="Position Action.appointPosition().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.008" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.appointPosition().when failed" name="should dispatch START_APPOINT_POSITION, FAILED_APPOINT_POSITION" time="0.007" />
+ </testsuite>
+ <testsuite name="Position Action.dismissPosition()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.119" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.dismissPosition().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.115" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.dismissPosition().when succeed" name="should dispatch START_DISMISS_POSITION, ADD_ENTITY, SUCCEED_DISMISS_POSITION action" time="0.114" />
+ </testsuite>
+ <testsuite name="Position Action.dismissPosition().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.dismissPosition().when failed" name="should dispatch START_DISMISS_POSITION, FAILED_DISMISS_POSITION" time="0.004" />
+ </testsuite>
+ <testsuite name="Position Action.updatePositionInfo()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.012" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.updatePositionInfo().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.007" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.updatePositionInfo().when succeed" name="should dispatch START_UPDATE_POSITION_INFO, ADD_ENTITY, SUCCEED_UPDATE_POSITION_INFO action" time="0.007" />
+ </testsuite>
+ <testsuite name="Position Action.updatePositionInfo().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.005" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.updatePositionInfo().when failed" name="should dispatch START_UPDATE_POSITION_INFO, FAILED_UPDATE_POSITION_INFO" time="0.005" />
+ </testsuite>
+ <testsuite name="Position Action.updatePositionPriority()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.025" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.updatePositionPriority().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.updatePositionPriority().when succeed" name="should dispatch START_UPDATE_POSITION_PRIORITY, ADD_ENTITY, SUCCEED_UPDATE_POSITION_PRIORITY action" time="0.004" />
+ </testsuite>
+ <testsuite name="Position Action.updatePositionPriority().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.021" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.updatePositionPriority().when failed" name="should dispatch START_UPDATE_POSITION_PRIORITY, FAILED_UPDATE_POSITION_PRIORITY" time="0.021" />
+ </testsuite>
+ <testsuite name="Position Action.deletePosition()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.016" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.deletePosition().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.014" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.deletePosition().when succeed" name="should dispatch START_DELETE_POSITION, SUCCEED_DELETE_POSITION action" time="0.014" />
+ </testsuite>
+ <testsuite name="Position Action.deletePosition().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.deletePosition().when failed" name="should dispatch START_DELETE_POSITION, FAILED_DELETE_POSITION" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Action.getPositionMembers()" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.006" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Action.getPositionMembers().when succeed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositionMembers().when succeed" name="should dispatch START_GET_POSITION_MEMBERS, ADD_ENTITY, SUCCEED_GET_POSITION_MEMBERS action" time="0.004" />
+ </testsuite>
+ <testsuite name="Position Action.getPositionMembers().when failed" timestamp="2022-12-15T18:03:14" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Action.getPositionMembers().when failed" name="should dispatch START_GET_POSITION_MEMBERS, FAILED_GET_POSITION_MEMBERS" time="0.002" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "id": "FYRY9YOLDJ",
+      "imageUrl": "https://파도상자.com/data/padobox/photo/a037.png",
+      "parentId": "FYPCBR4ZV7",
+      "name": "마산 고현어장 (비치호)",
+      "accountIds": ["test"],
+      "createdAt": 1621507532359,
+      "updatedAt": 1621507532359
+    },
+    {
+      "id": "FYRY9UEEEZ",
+      "imageUrl": "https://파도상자.com/data/padobox/photo/a012.jpg",
+      "parentId": "FYPCBR4ZV7",
+      "name": "홍성 남당어장 (청년어업인 연합)",
+      "accountIds": ["test"],
+      "createdAt": 1621507525165,
+      "updatedAt": 1621507525165
+    },
+    {
+      "id": "FYRY9OZ9YS",
+      "imageUrl": "https://파도상자.com/data/padobox/photo/a041.jpg",
+      "parentId": "FYPCBR4ZV7",
+      "name": "태안 모항어장(용복호)",
+      "accountIds": ["test"],
+      "createdAt": 1621507516062,
+      "updatedAt": 1621507516062
+    },
+    {
+      "id": "FYRY9KYDDO",
+      "imageUrl": "https://파도상자.com/data/padobox/photo/a004.jpg",
+      "parentId": "FYPCBR4ZV7",
+      "name": "울산 정자어장 (왕실호)",
+      "accountIds": ["test"],
+      "createdAt": 1621507509301,
+      "updatedAt": 1621507509301
+    },
+    {
+      "id": "FYRY9CPOE8",
+      "imageUrl": "https://파도상자.com/data/padobox/photo/a036.png",
+      "parentId": "FYPCBR4ZV7",
+      "name": "신안 송도어장 (유진호)",
+      "accountIds": ["test"],
+      "createdAt": 1621507495458,
+      "updatedAt": 1621507495458
+    }
+  ],
+  "paging": {}
+}

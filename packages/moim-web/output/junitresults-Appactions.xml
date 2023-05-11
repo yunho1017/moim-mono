@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="0.188">
+ <testsuite name="App actions" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.064" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="App actions.getAuthentication action called" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.06" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="App actions.getAuthentication action called.when provider is cryptobadge" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.06" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="App actions.getAuthentication action called.when provider is cryptobadge" name="should call payload with cryptobadge" time="0.06" />
+ </testsuite>
+ <testsuite name="App actions.initializeHistory action called" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="App actions.initializeHistory action called" name="should call AppTypes.INITIALIZE_HISTORY" time="0.004" />
+ </testsuite>
+</testsuites>

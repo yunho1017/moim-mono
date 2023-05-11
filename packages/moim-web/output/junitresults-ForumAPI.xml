@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="6" time="0.374">
+ <testsuite name="Forum API" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.187" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Forum API.getThreadList" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.09" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.getThreadList" name="should get paginatedThreadList" time="0.09" />
+ </testsuite>
+ <testsuite name="Forum API.postThread()" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.029" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.postThread()" name="should return success" time="0.028" />
+ </testsuite>
+ <testsuite name="Forum API.getThread()" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.008" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.getThread()" name="should return thread data" time="0.008" />
+ </testsuite>
+ <testsuite name="Forum API.getThreadVotes()" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.046" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.getThreadVotes()" name="should get threadVotes" time="0.046" />
+ </testsuite>
+ <testsuite name="Forum API.deleteThread()" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.01" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.deleteThread()" name="should response success" time="0.01" />
+ </testsuite>
+ <testsuite name="Forum API.deleteReply()" timestamp="2022-12-15T18:03:17" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Forum API.deleteReply()" name="should response success" time="0.004" />
+ </testsuite>
+</testsuites>

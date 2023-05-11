@@ -1,0 +1,54 @@
+{
+  "group": {
+    "id": "G0I35WHAG",
+    "name": "minukang",
+    "domain": "minukang",
+    "description": "test description",
+    "icon": {
+      "type": "text",
+      "data": {
+        "text": "t",
+        "color": "#ffffffff",
+        "bg_color": "#c01dffff"
+      }
+    },
+    "is_public": true,
+    "created_at": 1579658953821,
+    "users_count": 1,
+    "banner": {
+      "type": "image",
+      "data": {
+        "url": "https://ca.group-edge.net/i/closet-cover/banner"
+      }
+    }
+  },
+  "user": {
+    "id": "UEBYQRH0P",
+    "group_id": "G0I35WHAG",
+    "name": "minukang",
+    "tz": "Asia/Seoul",
+    "is_deactivated": false,
+    "is_bot": false,
+    "positions": [],
+    "notificationSettings": {
+      "web": {
+        "group": {
+          "status": "enable",
+          "detailed": {
+            "mention": true
+          }
+        },
+        "channels": []
+      },
+      "mobile": {
+        "group": {
+          "status": "enable",
+          "detailed": {
+            "mention": true
+          }
+        },
+        "channels": []
+      }
+    }
+  }
+}

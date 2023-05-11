@@ -1,0 +1,8 @@
+{
+  "id": "M12345",
+  "parent_id": "C12345",
+  "user": "U12345",
+  "content": "Hello World!",
+  "created_at": 1579229476546,
+  "updated_at": 1579229476546
+}

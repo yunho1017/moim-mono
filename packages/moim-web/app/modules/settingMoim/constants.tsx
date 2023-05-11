@@ -1,0 +1,4 @@
+export const SETTING_HORIZONTAL_MARGIN = 16;
+export const VAKE_GROUP_ID = "G0IZUDWCL";
+export const TEST_GROUP_ID = "G0MFWTIQW";
+export const TAEWOO_GROUP_ID = "G0033S6TH";

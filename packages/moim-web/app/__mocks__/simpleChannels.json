@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "C1234",
+      "type": "category",
+      "name": "category1",
+      "items": [
+        {
+          "id": "F1234",
+          "type": "forum",
+          "name": "forum 1",
+          "stat": { "count": 0, "has_new": false, "last_read": "M289Q7MU0" }
+        }
+      ]
+    },
+    {
+      "id": "C1234666",
+      "type": "conversation",
+      "name": "conversation 1",
+      "stat": { "count": 0, "has_new": false, "last_read": "M289Q7MU0" }
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "data": [
+    {
+      "id": "CO:34HY2FFNQSQ54",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "10/05 local downloadable 4",
+      "description": "10/05 local downloadable 4 - description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10
+      },
+      "currency": "KRW",
+      "startAt": 1661958000002,
+      "endAt": 1672412400002,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664955166882,
+      "updatedAt": 1664958512742,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "start": 1664550000002,
+          "end": 1667055600002
+        }
+      }
+    },
+    {
+      "id": "CO:34HXX4GTD8M1J",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "10/05 local downloadable 3",
+      "description": "10/05 local downloadable 3 - description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10
+      },
+      "currency": "KRW",
+      "startAt": 1664722800000,
+      "endAt": 1672412400000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664954919388,
+      "updatedAt": 1664954919388,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "start": 1664809200000,
+          "end": 1669820400000
+        }
+      }
+    },
+    {
+      "id": "CO:34HWU43G9QPHK",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "10/05 local downloadable 1",
+      "description": "10/05 local downloadable 1 - description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10
+      },
+      "currency": "KRW",
+      "startAt": 1664722800000,
+      "endAt": 1672412400000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664953099324,
+      "updatedAt": 1664953099324,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "start": 1664809200000,
+          "end": 1669820400000
+        }
+      }
+    },
+    {
+      "id": "CO:34HT0ZXWY5V5D",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "10.5 오후 2시 30분",
+      "description": "10.5 오후 2시 30분",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "maxAmount": 10000,
+        "value": 30
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1664947802220,
+      "endAt": 1665205860000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664946702068,
+      "updatedAt": 1664946702068,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664946702067,
+          "end": 1665205860000
+        }
+      }
+    },
+    {
+      "id": "CO:34GLEUDJG28UD",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "10.4 오후 6시 사용가능",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "maxAmount": 1000,
+        "value": 20
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1664874059476,
+      "endAt": 1665218940000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664873444935,
+      "updatedAt": 1664873444935,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664873444935,
+          "end": 1665218940000
+        }
+      }
+    },
+    {
+      "id": "CO:34FHQMZXGMG9X",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "1003-1 쿠폰ㅎ",
+      "description": "1003-1 쿠폰ㅎㅎ",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "maxAmount": 1000,
+        "value": 20
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1664893200000,
+      "endAt": 1665325140000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664806810605,
+      "updatedAt": 1664806961882,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 15,
+        "period": {
+          "start": 1664720460000,
+          "end": 1665238860000
+        }
+      }
+    },
+    {
+      "id": "CO:349UX9HPUFWIU",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "다운로드 설정 안했는뎀 (시작일시 선택 했을 때)",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 5000
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10000
+      },
+      "currency": "KRW",
+      "startAt": 1664552520000,
+      "endAt": 1665070920000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664466157645,
+      "updatedAt": 1664466157645,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664466157645,
+          "end": 1665070920000
+        }
+      }
+    },
+    {
+      "id": "CO:349UW4UE3NPXG",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "다운로드 설정 안했는뎀 (시작일시 선택 안했을 때)",
+      "description": "흠흠",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "maxAmount": 10000,
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1664466104965,
+      "endAt": 1665157260000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664466104966,
+      "updatedAt": 1664466126122,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664466104965,
+          "end": 1665157260000
+        }
+      }
+    },
+    {
+      "id": "CO:349UTRMQNLEAH",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "10월 3일부터 사용 가능 쿠폰",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "maxAmount": 10000,
+        "type": "rate",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1664725140000,
+      "endAt": 1665070740000,
+      "userCouponsCount": 4,
+      "usedCount": 0,
+      "canBeReissued": true,
+      "createdAt": 1664465994530,
+      "updatedAt": 1664465994530,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664465994530,
+          "end": 1665070740000
+        }
+      }
+    },
+    {
+      "id": "CO:349ORJ6TTSD5P",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "🍁가을맞이🍁 7천원 쿠폰",
+      "description": "가을맞이 7천원 쿠폰입니다 :)",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 7000
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 20000
+      },
+      "currency": "KRW",
+      "startAt": 1664455812580,
+      "endAt": 1664974080000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664455812581,
+      "updatedAt": 1664455822668,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664455812580,
+          "end": 1664974080000
+        }
+      }
+    },
+    {
+      "id": "CO:349G3E93COGWF",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U084YWMFL",
+      "name": "사용 가능 기간이 미래인 쿠폰",
+      "description": "사용 가능 기간이 미래인데 다운은 지금 부터 가능\n",
+      "targets": [
+        {
+          "type": "category",
+          "id": "CC:2NFOC3YY"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1000
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1000
+      },
+      "currency": "KRW",
+      "startAt": 1695977160698,
+      "endAt": 1696063560000,
+      "userCouponsCount": 5,
+      "usedCount": 0,
+      "createdAt": 1664441249511,
+      "updatedAt": 1664441249511,
+      "downloadedCount": 5,
+      "downloadConfig": {
+        "period": {
+          "start": 1664354700000,
+          "end": 1665737100000
+        }
+      }
+    },
+    {
+      "id": "CO:349FEJZ68X16M",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U084YWMFL",
+      "name": "10월 2일부터 사용 가능한 쿠폰",
+      "description": "123 다운기간 지난 쿠폰",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "maxAmount": 10000,
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 100000
+      },
+      "currency": "KRW",
+      "startAt": 1664679600000,
+      "endAt": 1665217500000,
+      "userCouponsCount": 5,
+      "usedCount": 0,
+      "createdAt": 1664440090530,
+      "updatedAt": 1664456097239,
+      "downloadedCount": 3,
+      "downloadConfig": {
+        "period": {
+          "start": 1664785500000,
+          "end": 1665087900000
+        }
+      }
+    },
+    {
+      "id": "CO:349CVTAIRPPRC",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 업데이트 테스트1",
+      "description": "쿠폰 발급이 되었어도 다운로드 설정은 바꿀수 있어야 한다",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "KRW",
+      "startAt": 1664290800000,
+      "endAt": 1667208600000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664435856906,
+      "updatedAt": 1664439833033,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664290860000,
+          "end": 1667055660000
+        }
+      }
+    },
+    {
+      "id": "CO:3488DYMUOC26R",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "최대개수 10개 설정 다운로드 쿠폰",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "value": 20
+      },
+      "status": "active",
+      "condition": {},
+      "currency": "USD",
+      "startAt": 1664367720000,
+      "endAt": 1665231720000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664367839382,
+      "updatedAt": 1664367868226,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 10,
+        "period": {
+          "start": 1664367720000,
+          "end": 1665231720000
+        }
+      }
+    },
+    {
+      "id": "CO:3488ARJRQQCEL",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 날짜 validation check",
+      "description": "시작 일시가 종료일보다 뒤면 validation 으로 막혀야함",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "USD",
+      "startAt": 1662024600000,
+      "endAt": 1669800600000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664367690231,
+      "updatedAt": 1664367690231,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1659346200000,
+          "end": 1666776600000
+        }
+      }
+    },
+    {
+      "id": "CO:34886BQA66PAD",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 downloadConfig period fallback check",
+      "description": "download config 의 period 의 start, end 가 각 coupon 의 startAt 과 endAt 으로 fallback 되어야함",
+      "targets": [],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "USD",
+      "startAt": 1664367483105,
+      "endAt": 1669799760000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664367483106,
+      "updatedAt": 1664367483106,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664367483105,
+          "end": 1669799760000
+        }
+      }
+    },
+    {
+      "id": "CO:34883W0PK0PZ5",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 fallback check 1",
+      "description": "start 가  안넣어줘도 fallback 되는가",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "USD",
+      "startAt": 1664367369433,
+      "endAt": 1669800540000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664367369433,
+      "updatedAt": 1664367369433,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {
+          "start": 1664367369433,
+          "end": 1669800540000
+        }
+      }
+    },
+    {
+      "id": "CO:347X6GQKTB1NI",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "220928 lhk coupon dl test 1",
+      "description": "description1",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "USD",
+      "startAt": 1664247660000,
+      "endAt": 1669792140000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664349013819,
+      "updatedAt": 1664349013819,
+      "downloadedCount": 1,
+      "downloadConfig": {
+        "period": {}
+      }
+    },
+    {
+      "id": "CO:347U8FJ4DAYUU",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "U5OZL2NQ4",
+      "name": "사용기간 설정안하고 쿠폰",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "rate",
+        "value": 30
+      },
+      "status": "active",
+      "condition": {},
+      "currency": "USD",
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664344066720,
+      "updatedAt": 1664344066720,
+      "downloadedCount": 0,
+      "downloadConfig": {
+        "period": {}
+      }
+    },
+    {
+      "id": "CO:347M4BX639E5E",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 다운로드 테스트 220928 (채은 7)",
+      "description": "사용가능 기간 : 생성 직후 ~ 22. 10. 5 오후 11:59\n다운로드 기간 : 생성 직후 ~ 만료 일시\n최대 개수 제한 : 10개\n적용 상품 : CP:2ODOIRRO, CP:2RS9DBDU <- 2개 상품",
+      "targets": [
+        {
+          "type": "product",
+          "id": "CP:2ODOIRRO"
+        },
+        {
+          "type": "product",
+          "id": "CP:2RS9DBDU"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 1
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 1
+      },
+      "currency": "USD",
+      "startAt": 1664290800000,
+      "endAt": 1664981940000,
+      "userCouponsCount": 11,
+      "usedCount": 0,
+      "createdAt": 1664330438489,
+      "updatedAt": 1664330438489,
+      "downloadedCount": 10,
+      "downloadConfig": {
+        "maxCount": 10,
+        "period": {}
+      }
+    },
+    {
+      "id": "CO:347M0BCWMCKL8",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 다운로드 테스트 220928 (채은 6)",
+      "description": "사용가능 기간 : 생성 직후 ~ 22. 10. 5 오후 11:59\n다운로드 기간 : 22. 10. 1 오전 00:00 ~ 만료 일시\n최대개수 제한 없음\n적용 상품 : 전체 상품",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10
+      },
+      "currency": "USD",
+      "startAt": 1664463600000,
+      "endAt": 1664981940000,
+      "userCouponsCount": 2,
+      "usedCount": 0,
+      "createdAt": 1664330251136,
+      "updatedAt": 1664440648640,
+      "downloadedCount": 2,
+      "downloadConfig": {
+        "period": {
+          "start": 1664290800000
+        }
+      }
+    },
+    {
+      "id": "CO:347LXF96TRO0S",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "쿠폰 다운로드 테스트 220928 (채은 5)",
+      "description": "사용가능 기간 : 22. 10. 1 오전 00:00 ~ 22. 10. 5 오후 11:59\n다운로드 기간 : 생성 직후 ~ 만료 일시\n최대개수 제한 없음\n적용 상품 : CC:2NFOBZNY 카테고리",
+      "targets": [
+        {
+          "type": "category",
+          "id": "CC:2NFOBZNY"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 10
+      },
+      "currency": "USD",
+      "startAt": 1664550000000,
+      "endAt": 1664981940000,
+      "userCouponsCount": 15,
+      "usedCount": 0,
+      "createdAt": 1664330116218,
+      "updatedAt": 1664330116218,
+      "downloadedCount": 14,
+      "downloadConfig": {
+        "period": {}
+      }
+    },
+    {
+      "id": "CO:346GA4R8AWW56",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "downloadable test 220929-2",
+      "description": "downloadable test 2 description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 100
+      },
+      "currency": "KRW",
+      "startAt": 1662025260000,
+      "endAt": 1669801260000,
+      "userCouponsCount": 1,
+      "usedCount": 0,
+      "createdAt": 1664260165268,
+      "updatedAt": 1664260165268,
+      "downloadedCount": 1,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "end": 1669769048000
+        }
+      }
+    },
+    {
+      "id": "CO:346G8PK073I14",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "downloadable test 220929-1",
+      "description": "downloadable test 1 description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 100
+      },
+      "currency": "KRW",
+      "startAt": 1662025260000,
+      "endAt": 1669801260000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1664260098912,
+      "updatedAt": 1664260098912,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "end": 1669769048000
+        }
+      }
+    },
+    {
+      "id": "CO:340XNB4ANFZCE",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "downloadable test 1",
+      "description": "downloadable test 1 description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 100
+      },
+      "currency": "KRW",
+      "startAt": 1662025260000,
+      "endAt": 1669801260000,
+      "userCouponsCount": 15,
+      "usedCount": 0,
+      "createdAt": 1663926536458,
+      "updatedAt": 1663926536458,
+      "downloadedCount": 4,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "end": 1669769048000
+        }
+      }
+    }
+  ],
+  "paging": {}
+}

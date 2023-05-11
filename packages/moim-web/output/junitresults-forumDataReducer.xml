@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="12" time="0.049">
+ <testsuite name="forumData Reducer" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.018" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch START_GET_THREAD_LIST action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.01" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch START_GET_THREAD_LIST action.when initialized state" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.01" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch START_GET_THREAD_LIST action.when initialized state" name="should change forum id" time="0.01" />
+ </testsuite>
+ <testsuite name="forumData Reducer.getThreadVotes" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="forumData Reducer.getThreadVotes.when receive SUCCEEDED_GET_THREAD_VOTES" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.003" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.getThreadVotes.when receive SUCCEEDED_GET_THREAD_VOTES" name="should set new threadVote by thread id" time="0.001" />
+  <testcase classname="forumData Reducer.getThreadVotes.when receive SUCCEEDED_GET_THREAD_VOTES" name="should set new type threadVote by thread id" time="0.001" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch START_GET_THREAD action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch START_GET_THREAD action" name="should add threadIds" time="0" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEEDED_GET_THREAD action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch SUCCEEDED_GET_THREAD action" name="should add threadIds" time="0.001" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch FAILED_GET_THREAD action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch FAILED_GET_THREAD action" name="should add threadIds" time="0" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch CLEAR_CURRENT_THREAD action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch CLEAR_CURRENT_THREAD action" name="should reset related of thread store fields" time="0.001" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch CLEAR_COMMENT_LIST action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch CLEAR_COMMENT_LIST action" name="should change commentIds to empty" time="0" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_POST_COMMENT action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch SUCCEED_POST_COMMENT action" name="should push new data to postedCommentIds" time="0" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when empty postedCommentIds" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when empty postedCommentIds" name="should set new data" time="0" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when have postedCommentIds" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when have postedCommentIds.when it&apos;s different thread&apos;s comment" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when have postedCommentIds.when it&apos;s different thread&apos;s comment" name="should set new data" time="0.001" />
+ </testsuite>
+ <testsuite name="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when have postedCommentIds.when it&apos;s same thread&apos;s comment" timestamp="2022-12-15T18:03:22" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="forumData Reducer.when dispatch SUCCEED_GET_COMMENT_LIST action.when have postedCommentIds.when it&apos;s same thread&apos;s comment" name="should set new data" time="0" />
+ </testsuite>
+</testsuites>

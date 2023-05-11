@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="0.593">
+ <testsuite name="useSideNavigationPanel hook" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.297" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="useSideNavigationPanel hook.when call expandSideNavigation" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.287" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="useSideNavigationPanel hook.when call expandSideNavigation" name="should dispatch EXPAND_SIDE_NAVIGATION action" time="0.287" />
+ </testsuite>
+ <testsuite name="useSideNavigationPanel hook.when call collapseSideNavigation" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.009" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="useSideNavigationPanel hook.when call collapseSideNavigation" name="should dispatch COLLAPSE_SIDE_NAVIGATION action" time="0.009" />
+ </testsuite>
+</testsuites>

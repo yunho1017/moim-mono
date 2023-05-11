@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "CE:2QSZVGSK",
+      "title": "TEST",
+      "campaignId": "CC:2QKFKUAB",
+      "creatorId": "UGSZKYO1F",
+      "communityAccount": "taewcamp5.c",
+      "proposalName": "ywmzk4tidc3y",
+      "passRule": "80.00000000000000000",
+      "voteDuration": 600,
+      "amount": 1000,
+      "startAt": 1635148376514,
+      "endAt": 1635148976514,
+      "voters": []
+    }
+  ]
+}

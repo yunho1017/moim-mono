@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="0.013">
+ <testsuite name="Image brochure actions" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.007" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Image brochure actions.when openImageBrochure" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Image brochure actions.when openImageBrochure" name="should return OPEN_IMAGE_BROCHURE_DIALOG" time="0.003" />
+ </testsuite>
+ <testsuite name="Image brochure actions.when closeImageBrochure" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Image brochure actions.when closeImageBrochure" name="should return CLOSE_IMAGE_BROCHURE_DIALOG" time="0.002" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "id": "CCV:2QYO6LDB",
+      "campaignExecutionId": "CCE:2QYLPDPD",
+      "userId": "U084YWMFL",
+      "profileId": "U084YWMFL",
+      "canAccount": "uxgubfhxojug",
+      "status": "accepted",
+      "signUrl": "https://canpass.me/auth/sign-transaction?txId=Fz9e5XWRybiL5J5jDzbIu&redirectUrl=https%3A%2F%2Fpayment.vingle.network%2Fcampaign_executions%2FCCE%3A2QYLPDPD%2Fvotes%2FCCV%3A2QYO6LDB%2Fcallback%2Fsigned%3FredirectUrl%3Dhttps%3A%2F%2Fpadobox.lvh.me%3A8080%2Fviews%2FISWUF6SQD",
+      "signedAt": 1635491556454,
+      "createdAt": 1635491537327,
+      "updatedAt": 1635491556454
+    }
+  ],
+  "paging": {}
+}

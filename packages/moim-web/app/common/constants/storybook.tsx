@@ -1,0 +1,6 @@
+export enum STORYBOOK_PREFIX {
+  COMMON_COMPONENTS = "Commons",
+  MODULE_COMPONENTS = "Screen",
+  DESIGN_SYSTEM = "Base",
+  LAYOUT_COMPONENTS = "Layouts",
+}

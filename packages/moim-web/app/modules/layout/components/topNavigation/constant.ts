@@ -1,0 +1,1 @@
+export const TOP_NAVIGATION_HEIGHT = 64;

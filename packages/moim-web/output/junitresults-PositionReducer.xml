@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="30" time="0.144">
+ <testsuite name="Position Reducer" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.073" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_GET_POSITIONS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_GET_POSITIONS Action" name="should change getPositionsLoading is truthy" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_GET_POSITIONS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_GET_POSITIONS Action" name="should change getPositionsLoading is truthy" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_GET_POSITIONS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_GET_POSITIONS Action" name="should change getPositionsLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_GET_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_GET_POSITION Action" name="should change getPositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_GET_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_GET_POSITION Action" name="should change getPositionsLoading is falsy and contain positionId" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_GET_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_GET_POSITION Action" name="should change getPositionsLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_GET_POSITIONS_BATCH Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_GET_POSITIONS_BATCH Action" name="should change getPositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_GET_POSITIONS_BATCH Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_GET_POSITIONS_BATCH Action" name="should change getPositionLoading is falsy and contain positionIds" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_GET_POSITIONS_BATCH Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_GET_POSITIONS_BATCH Action" name="should change getPositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_CREATE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.01" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_CREATE_POSITION Action" name="should change createPositionLoading is truthy" time="0.009" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_CREATE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.027" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_CREATE_POSITION Action" name="should change createPositionLoading is falsy and container positionId" time="0.026" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_CREATE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_CREATE_POSITION Action" name="should change createPositionLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_APPOINT_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_APPOINT_POSITION Action" name="should change appointPositionLoading is truthy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_APPOINT_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_APPOINT_POSITION Action" name="should change appointPositionLoading is falsy" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_APPOINT_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_APPOINT_POSITION Action" name="should change appointPositionLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_DISMISS_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_DISMISS_POSITION Action" name="should change dismissPositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_DISMISS_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_DISMISS_POSITION Action" name="should change dismissPositionLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_DISMISS_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_DISMISS_POSITION Action" name="should change dismissPositionLoading is falsy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_UPDATE_POSITION_INFO Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_UPDATE_POSITION_INFO Action" name="should change dismissPositionLoading is truthy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_UPDATE_POSITION_INFO Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_UPDATE_POSITION_INFO Action" name="should change dismissPositionLoading is falsy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_UPDATE_POSITION_INFO Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_UPDATE_POSITION_INFO Action" name="should change dismissPositionLoading is falsy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_UPDATE_POSITION_PRIORITY Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_UPDATE_POSITION_PRIORITY Action" name="should change dismissPositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_UPDATE_POSITION_PRIORITY Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_UPDATE_POSITION_PRIORITY Action" name="should change dismissPositionLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_UPDATE_POSITION_PRIORITY Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_UPDATE_POSITION_PRIORITY Action" name="should change dismissPositionLoading is falsy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_DELETE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_DELETE_POSITION Action" name="should change deletePositionLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_DELETE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.013" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_DELETE_POSITION Action" name="should change deletePositionLoading is falsy" time="0.013" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_DELETE_POSITION Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_DELETE_POSITION Action" name="should change deletePositionLoading is falsy" time="0.001" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch START_GET_POSITION_MEMBERS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch START_GET_POSITION_MEMBERS Action" name="should change getPositionMembersLoading is truthy" time="0" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch SUCCEED_GET_POSITION_MEMBERS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch SUCCEED_GET_POSITION_MEMBERS Action" name="should change getPositionMembersLoading is falsy and contain memberMap" time="0.002" />
+ </testsuite>
+ <testsuite name="Position Reducer.when dispatch FAILED_GET_POSITION_MEMBERS Action" timestamp="2022-12-15T18:03:21" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Position Reducer.when dispatch FAILED_GET_POSITION_MEMBERS Action" name="should change getPositionMembersLoading is falsy" time="0.001" />
+ </testsuite>
+</testsuites>

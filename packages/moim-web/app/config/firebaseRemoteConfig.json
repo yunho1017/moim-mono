@@ -1,0 +1,4 @@
+{
+  "minimumFetchIntervalMillis": 3600000,
+  "fetchTimeoutMillis": 60000
+}

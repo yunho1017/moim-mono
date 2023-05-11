@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": "CO:340XNB4ANFZCE",
+      "parentSellerId": "CS:2NCRXQT3",
+      "sellerId": "CS:2NCRXQT3",
+      "userId": "UO3N6I5JA",
+      "name": "downloadable test 1",
+      "description": "downloadable test 1 description",
+      "targets": [
+        {
+          "type": "seller",
+          "id": "CS:2NCRXQT3"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 10
+      },
+      "status": "active",
+      "condition": {
+        "minPurchaseAmount": 100
+      },
+      "currency": "KRW",
+      "startAt": 1662025260000,
+      "endAt": 1669801260000,
+      "userCouponsCount": 0,
+      "usedCount": 0,
+      "createdAt": 1663926536458,
+      "updatedAt": 1663926536458,
+      "donwloadedCount": 0,
+      "downloadConfig": {
+        "maxCount": 200,
+        "period": {
+          "end": 1669769048000
+        }
+      },
+      "downloadable": true
+    }
+  ]
+}

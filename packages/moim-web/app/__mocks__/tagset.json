@@ -1,0 +1,134 @@
+{
+  "data": [{
+      "id": "ETBFZIPIV",
+      "set": "region",
+      "userId": "UD1L41P5H",
+      "groupId": "G0033S6TH",
+      "sortKey": "X1598348410518",
+      "createdAt": 1598348410518,
+      "updatedAt": 1598348410518,
+      "items": [{
+          "id": "EYUUDUM7L",
+          "set": "region",
+          "value": "seoul",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348484721",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348484721,
+          "updatedAt": 1598348484721
+        },
+        {
+          "id": "ENPGLMX1V",
+          "set": "region",
+          "value": "LA",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348489688",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348489688,
+          "updatedAt": 1598348489688
+        },
+        {
+          "id": "E0P1XD24T",
+          "set": "region",
+          "value": "las vegas",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348495445",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348495445,
+          "updatedAt": 1598348495445
+        },
+        {
+          "id": "E7ZDFWYBL",
+          "set": "region",
+          "value": "manchester",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348502591",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348502591,
+          "updatedAt": 1598348502591
+        },
+        {
+          "id": "EH82S8GME",
+          "set": "region",
+          "value": "bangkok",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348509842",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348509842,
+          "updatedAt": 1598348509842
+        },
+        {
+          "id": "EUKTM539P",
+          "set": "region",
+          "value": "toronto",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348517090",
+          "parentId": "ETBFZIPIV",
+          "createdAt": 1598348517090,
+          "updatedAt": 1598348517090
+        }
+      ]
+    },
+    {
+      "id": "E4SC1QM0H",
+      "set": "category",
+      "userId": "UD1L41P5H",
+      "groupId": "G0033S6TH",
+      "sortKey": "X1598348415662",
+      "createdAt": 1598348415662,
+      "updatedAt": 1598348415662,
+      "items": [{
+          "id": "EVS5TGKOE",
+          "set": "category",
+          "value": "backend",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348452853",
+          "parentId": "E4SC1QM0H",
+          "createdAt": 1598348452853,
+          "updatedAt": 1598348452853
+        },
+        {
+          "id": "E44OUJX5O",
+          "set": "category",
+          "value": "ios",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348457838",
+          "parentId": "E4SC1QM0H",
+          "createdAt": 1598348457839,
+          "updatedAt": 1598348457839
+        },
+        {
+          "id": "EUY9FDCII",
+          "set": "category",
+          "value": "android",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348462251",
+          "parentId": "E4SC1QM0H",
+          "createdAt": 1598348462251,
+          "updatedAt": 1598348462251
+        },
+        {
+          "id": "EAUT8AN5Z",
+          "set": "category",
+          "value": "web",
+          "userId": "UD1L41P5H",
+          "groupId": "G0033S6TH",
+          "sortKey": "X1598348465097",
+          "parentId": "E4SC1QM0H",
+          "createdAt": 1598348465097,
+          "updatedAt": 1598348465097
+        }
+      ]
+    }
+  ],
+  "paging": {}
+}

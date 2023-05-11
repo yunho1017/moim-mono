@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="⚪️Base/Iconograyphy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Element/Icons" transform="translate(-519.000000, -788.000000)">
+            <g id="ic/18/18_checkmark_on_export" transform="translate(519.000000, 788.000000)">
+                <g id="Group" transform="translate(1.500000, 1.500000)">
+                    <rect id="Rectangle" x="0" y="0" width="15" height="15" rx="2"></rect>
+                    <path d="M10.7526127,2.89793784 C10.9931403,2.50555436 11.5062162,2.38245093 11.8985997,2.62297862 C12.2629558,2.84632576 12.3951265,3.30467619 12.2195692,3.68317947 L12.1735589,3.76896567 L7.57612352,11.2689657 C7.28465749,11.7444471 6.62756357,11.7982963 6.25959897,11.4057818 L6.19005511,11.32132 L3.49107139,7.58379346 C3.22162917,7.21067249 3.30567741,6.68977211 3.67879839,6.4203299 C4.02321774,6.17161401 4.49355565,6.22409709 4.77580094,6.52711285 L4.84226195,6.6080569 L6.80833333,9.33095176 L10.7526127,2.89793784 Z" id="Path-26" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

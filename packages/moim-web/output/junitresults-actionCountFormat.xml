@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="14" time="0.026">
+ <testsuite name="actionCountFormat()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.006" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.005" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000 value" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000 value.when value is 555" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test under 1000 value.when value is 555" name="should be &apos;555&apos; string" time="0.003" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000 value" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000 value.when value is 5000" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test under 1000000 value.when value is 5000" name="should be &apos;5K&apos; string" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000 value.test decimal 1 point should returned" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000 value.test decimal 1 point should returned.when value is 5555" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test under 1000000 value.test decimal 1 point should returned.when value is 5555" name="should be &apos;5.5K&apos; string" time="0.001" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000000 value" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000000 value.when value is 5000000" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test under 1000000000 value.when value is 5000000" name="should be &apos;5M&apos; string" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000000 value.test decimal 1 point should returned" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test under 1000000000 value.test decimal 1 point should returned.when value is 5555555" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test under 1000000000 value.test decimal 1 point should returned.when value is 5555555" name="should be &apos;5.5M&apos; string" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test over 1000000000 value" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test over 1000000000 value.when value is 5000000000" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test over 1000000000 value.when value is 5000000000" name="should be &apos;5B&apos; string" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test over 1000000000 value.test decimal 1 point should returned" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when EN locale.test over 1000000000 value.test decimal 1 point should returned.when value is 5555555555" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when EN locale.test over 1000000000 value.test decimal 1 point should returned.when value is 5555555555" name="should be &apos;5.5B&apos; string" time="0.001" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is under Man" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is under Man" name="should return same number" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Man range" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Man range.when give 30291" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Man range.when give 30291" name="should return 3만" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Man range.when give 3222091" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Man range.when give 3222091" name="should return 322.2만" time="0.001" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Uck range" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Uck range.when give 209022391" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Uck range.when give 209022391" name="should return 2억" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Uck range.when give 8999022391" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Uck range.when give 8999022391" name="should return 89.9억" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Uck range.when give 782999022391" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Uck range.when give 782999022391" name="should return 7829.9억" time="0" />
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Jo range" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="actionCountFormat().when KO locale.when value is into Jo range.when give 7829990223914" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="actionCountFormat().when KO locale.when value is into Jo range.when give 7829990223914" name="should return 7조" time="0" />
+ </testsuite>
+</testsuites>

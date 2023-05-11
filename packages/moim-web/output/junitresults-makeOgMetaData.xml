@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.004">
+ <testsuite name="makeOgMetaData()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="makeOgMetaData().when make OG Meta Data" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="makeOgMetaData().when make OG Meta Data" name="should has og:type" time="0.001" />
+  <testcase classname="makeOgMetaData().when make OG Meta Data" name="should has og:url" time="0.001" />
+  <testcase classname="makeOgMetaData().when make OG Meta Data" name="should has og:title" time="0" />
+  <testcase classname="makeOgMetaData().when make OG Meta Data" name="should has og:description" time="0" />
+  <testcase classname="makeOgMetaData().when make OG Meta Data" name="should has og:image" time="0" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Moim Webapp Authentication Callback</title>
+    <style type="text/css">
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+
+      .wrapper {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .bubblingG {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        position: relative;
+      }
+
+      .bubblingItem {
+        width: 6px;
+        height: 6px;
+        background: rgba(174, 184, 189, 0.5);
+        display: inline-block;
+        vertical-align: middle;
+        border-radius: 50%;
+        animation: bubblingAnimation 0.275s
+          cubic-bezier(0.55, 0.055, 0.675, 0.19) infinite alternate;
+      }
+
+      .bubblingItem ~ .bubblingItem {
+        margin-left: 5px;
+      }
+
+      .bubblingItem:nth-of-type(2) {
+        animation-delay: 0.075s;
+      }
+
+      .bubblingItem:nth-of-type(3) {
+        animation-delay: 0.15s;
+      }
+
+      @keyframes bubblingAnimation {
+        0% {
+          transform: translateY(0);
+        }
+
+        100% {
+          transform: translateY(-5px);
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <div class="bubblingG">
+        <span class="bubblingItem"></span>
+        <span class="bubblingItem"></span>
+        <span class="bubblingItem"></span>
+      </div>
+    </div>
+    <script type="text/javascript">
+      ready(function() {
+        const cookies = document.cookie.split(";");
+        const lastSeenCookieJar = cookies.find(ck =>
+          ck.trim().startsWith("oauth_requested_last_seen"),
+        );
+        const lastSeenCookie = lastSeenCookieJar
+          ? lastSeenCookieJar.split("=")
+          : undefined;
+        let lastSeen = "/";
+        if (lastSeenCookie && lastSeenCookie.length === 2) {
+          lastSeen = lastSeenCookie[1];
+        }
+        location.replace(lastSeen + location.search);
+      });
+
+      function ready(fn) {
+        if (document.readyState !== "loading") {
+          fn();
+        } else {
+          document.addEventListener("DOMContentLoaded", fn);
+        }
+      }
+    </script>
+  </body>
+</html>

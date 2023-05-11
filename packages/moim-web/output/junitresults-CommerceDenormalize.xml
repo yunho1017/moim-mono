@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="11" time="0.056">
+ <testsuite name="Commerce Denormalize" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.031" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Commerce Denormalize.sellerDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.016" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.sellerDenomalizer()" name="should get seller" time="0.013" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.sellerListDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.sellerListDenomalizer()" name="should get seller list" time="0.002" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.productDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.productDenomalizer()" name="should get product" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.productListDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.productListDenomalizer()" name="should get product list" time="0.002" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.productSetDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.productSetDenomalizer()" name="should get productSet" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.productSetListDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.productSetListDenomalizer()" name="should get productSet list" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.commerceCategoryDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.commerceCategoryDenomalizer()" name="should get category" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.commerceCategoryListDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.commerceCategoryListDenomalizer()" name="should get category list" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.paymentListDenomalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.paymentListDenomalizer()" name="should get payment list" time="0.001" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.shippingAddressDenormalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.shippingAddressDenormalizer()" name="should denormalize" time="0" />
+ </testsuite>
+ <testsuite name="Commerce Denormalize.shippingAddressListDenormalizer()" timestamp="2023-02-02T02:04:15" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Commerce Denormalize.shippingAddressListDenormalizer()" name="should denormalize" time="0" />
+ </testsuite>
+</testsuites>

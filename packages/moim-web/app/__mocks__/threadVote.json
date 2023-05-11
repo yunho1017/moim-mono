@@ -1,0 +1,8 @@
+{
+  "data": {
+    "thread_id": "T1234",
+    "user_id": "U1234",
+    "type": "upvote",
+    "createdAt": 12345
+  }
+}

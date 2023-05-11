@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.003922 0 0 0 0 0.019608 0 0 0 0 0.019608 0 0 0 0.860000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="⚪️Base/Iconograyphy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Element/Icons/24*24" transform="translate(-428.000000, -1756.000000)">
+            <g id="ic/24/24_Like_fill_export" transform="translate(428.000000, 1756.000000)">
+                <g id="ic-24-24_-Like_fill" transform="translate(0.000000, -0.000000)" filter="url(#filter-1)">
+                    <g transform="translate(2.000000, 3.000000)">
+                        <path d="M17.8469609,1.74018909 C16.7565978,0.627796011 15.2646225,0.000733961702 13.7069609,0.000189092598 C12.2832716,-0.0113914206 10.9066125,0.5093138 9.8469609,1.46018909 C8.79242484,0.513967657 7.42376638,-0.00640769283 6.0069609,0.000189092598 L6.0069609,0.000189092598 C4.44236429,-0.00465155046 2.94217628,0.622830936 1.8469609,1.74018909 C-0.503931031,4.16540576 -0.625185318,7.98058529 1.5669609,10.5501891 C3.3169609,12.7401891 7.8569609,16.9401891 9.6969609,17.1401891 L9.9969609,17.1401891 C11.8369609,16.9401891 16.3769609,12.7401891 18.1269609,10.5501891 C20.3191071,7.98058529 20.1978528,4.16540576 17.8469609,1.74018909 Z" id="Path" fill="#FFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

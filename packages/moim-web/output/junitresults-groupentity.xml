@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="0.007">
+ <testsuite name="group entity" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="group entity.group normalizer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="group entity.group normalizer.groupNormalizer()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="group entity.group normalizer.groupNormalizer()" name="should normalize" time="0" />
+ </testsuite>
+ <testsuite name="group entity.group normalizer.groupSingleItemNormalizer()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="group entity.group normalizer.groupSingleItemNormalizer()" name="should normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="group entity.group normalizer.groupListNormalizer()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="group entity.group normalizer.groupListNormalizer()" name="should normalize" time="0.001" />
+ </testsuite>
+ <testsuite name="group entity.group normalizer.groupListNormalizer() with paginated" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="group entity.group normalizer.groupListNormalizer() with paginated" name="should normalize" time="0" />
+ </testsuite>
+</testsuites>

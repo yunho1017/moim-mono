@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="0.024">
+ <testsuite name="cryptobadge authentication" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.008" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="cryptobadge authentication.getAuthorizeState" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="cryptobadge authentication.getAccessToken()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.008" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="cryptobadge authentication.getAccessToken().When success get authentication" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.008" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="cryptobadge authentication.getAccessToken().When success get authentication" name="should get access_token object" time="0.008" />
+ </testsuite>
+</testsuites>

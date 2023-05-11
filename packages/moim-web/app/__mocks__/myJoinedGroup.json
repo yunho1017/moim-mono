@@ -1,0 +1,78 @@
+{
+  "data": [{
+    "group": {
+      "id": "G03PCGV9S",
+      "name": "satune",
+      "domain": "satune",
+      "icon": {
+        "type": "image",
+        "data": {
+          "url": "https://ca.group-edge.net/i/G03PCGV9S-2lwvn1--256"
+        }
+      },
+      "is_public": false,
+      "created_at": 1581311642381,
+      "users_count": 1
+    },
+    "user": {
+      "group_id": "G03PCGV9S",
+      "id": "UJK9XOJW9",
+      "name": "Satune",
+      "tz": "Asia/Seoul",
+      "is_deactivated": false,
+      "is_bot": false,
+      "positions": []
+    }
+  }, {
+    "group": {
+      "id": "G0QSTKPID",
+      "name": "Test-moim",
+      "domain": "s-moim",
+      "icon": {
+        "type": "text",
+        "data": {
+          "text": "T",
+          "color": "#ffffffff",
+          "bg_color": "#8c1dffff"
+        }
+      },
+      "is_public": true,
+      "created_at": 1584341630414,
+      "users_count": 1
+    },
+    "user": {
+      "group_id": "G0QSTKPID",
+      "id": "UKSBL08J6",
+      "name": "Satune_the_admin",
+      "tz": "Asia/Seoul",
+      "is_deactivated": false,
+      "is_bot": false,
+      "positions": []
+    }
+  }, {
+    "group": {
+      "id": "G0ZHM48ED",
+      "name": "pepe world",
+      "domain": "pepeworld",
+      "icon": {
+        "type": "image",
+        "data": {
+          "url": "https://ca.group-edge.net/i/G0ZHM48ED-z3vs3t--256"
+        }
+      },
+      "is_public": true,
+      "created_at": 1581312643383,
+      "users_count": 1
+    },
+    "user": {
+      "group_id": "G0ZHM48ED",
+      "id": "URHSOSLWJ",
+      "name": "페페 마스터",
+      "tz": "Asia/Seoul",
+      "is_deactivated": false,
+      "is_bot": false,
+      "positions": []
+    }
+  }],
+  "paging": {}
+}

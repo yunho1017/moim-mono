@@ -1,0 +1,13 @@
+{
+  "group_id": "G123456",
+  "id": "U123456",
+  "name": "Farid Amini",
+  "bio": "Kinshasa",
+  "tz": "Asia/Seoul",
+  "is_deactivated": false,
+  "is_bot": false,
+  "avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlclqXTyecUXvEkIog0MbNWn2DIgwtad491j2Wx8BinUuorzQ&s",
+  "encrypted_email": "1234565",
+  "positions": [],
+  "updated_at": 100
+}

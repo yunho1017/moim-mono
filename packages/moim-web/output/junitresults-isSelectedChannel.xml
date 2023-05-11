@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="0.006">
+ <testsuite name="isSelectedChannel()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is Conversation" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is Conversation.when channel type is chat and same id" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isSelectedChannel().when matchRoute is Conversation.when channel type is chat and same id" name="should return truthy" time="0.001" />
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is Forum" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is Forum.when channel type is forum and same id" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isSelectedChannel().when matchRoute is Forum.when channel type is forum and same id" name="should return truthy" time="0" />
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is ForumShow" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is ForumShow.when channel type is forum and same forumId and ThreadId" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isSelectedChannel().when matchRoute is ForumShow.when channel type is forum and same forumId and ThreadId" name="should return truthy" time="0" />
+ </testsuite>
+ <testsuite name="isSelectedChannel().when matchRoute is NotMatched" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isSelectedChannel().when matchRoute is NotMatched" name="should return falsy" time="0" />
+ </testsuite>
+</testsuites>

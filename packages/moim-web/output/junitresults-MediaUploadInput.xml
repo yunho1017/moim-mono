@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="6" time="0.725">
+ <testsuite name="&lt;MediaUploadInput /&gt;" timestamp="2022-12-15T18:03:15" hostname="localhost" time="0.363" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is empty" timestamp="2022-12-15T18:03:15" hostname="localhost" time="0.311" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is empty" name="should render accept all" time="0.311" />
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is video" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.031" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is video" name="should render accept image,gif" time="0.03" />
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is gif" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.012" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is gif" name="should render accept image,video" time="0.011" />
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is image" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is image" name="should render accept video,gif" time="0.004" />
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is gif,video" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is gif,video" name="should render accept image" time="0.002" />
+ </testsuite>
+ <testsuite name="&lt;MediaUploadInput /&gt;.denyType is all" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="&lt;MediaUploadInput /&gt;.denyType is all" name="should render input disabled true" time="0.002" />
+ </testsuite>
+</testsuites>

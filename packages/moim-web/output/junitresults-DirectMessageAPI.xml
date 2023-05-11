@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.08">
+ <testsuite name="DirectMessage API" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.041" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="DirectMessage API.api.getDirectMessages()" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.01" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="DirectMessage API.api.getDirectMessages()" name="should get paginated dm list data" time="0.01" />
+ </testsuite>
+ <testsuite name="DirectMessage API.api.getDirectMessages()" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.006" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="DirectMessage API.api.getDirectMessages()" name="should get paginated dm list data" time="0.006" />
+ </testsuite>
+ <testsuite name="DirectMessage API.api.createConversation()" timestamp="2022-12-15T18:03:19" hostname="localhost" time="0.023" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="DirectMessage API.api.createConversation()" name="should get dm data" time="0.023" />
+ </testsuite>
+</testsuites>

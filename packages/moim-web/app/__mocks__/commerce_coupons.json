@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "sellerId": "FYPCBR4ZV7",
+      "userId": "UWAM02Z1N",
+      "name": "모자반 할인 쿠포",
+      "description": "2만원 이상 구매시 4천원 할인",
+      "targetIds": ["FYQWNVBT98", "FYQWNVHU3H"],
+      "targets": [
+        {
+          "id": "FYQWNVBT98",
+          "type": "product",
+          "label": "거제 모자반 (청다리, 자연산) - 바다나물"
+        },
+        {
+          "id": "FYQWNVHU3H",
+          "type": "product",
+          "label": "동해 참문어"
+        }
+      ],
+      "benefitTarget": "price",
+      "benefit": {
+        "type": "amount",
+        "value": 4000
+      },
+      "condition": {
+        "minPurchaseAmount": 20000
+      },
+      "status": "active",
+      "startAt": 1616249375319,
+      "endAt": 1626249375319
+    }
+  ],
+  "paging": {}
+}

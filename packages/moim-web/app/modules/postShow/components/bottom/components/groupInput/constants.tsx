@@ -1,0 +1,5 @@
+export const APP_BAR_HEIGHT = 45;
+export const ENGAGE_BAR_HEIGHT = 42;
+export const ENGAGE_DIVIDER_HEIGHT = 4;
+export const THREAD_INPUT_MARGIN = 23;
+export const VARIABLE_HEIGHT = APP_BAR_HEIGHT + THREAD_INPUT_MARGIN;

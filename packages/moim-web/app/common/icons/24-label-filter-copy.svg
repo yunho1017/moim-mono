@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="p91w7fp3pa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.682353 0 0 0 0 0.721569 0 0 0 0 0.741176 0 0 0 1.000000 0"/>
+        </filter>
+        <path id="8lsw8sn7mb" d="M0 0.001L15.363 0.001 15.363 16.105 0 16.105z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#p91w7fp3pa)">
+        <g transform="translate(4 4.5)">
+            <mask id="hy7o6cj9tc" fill="#fff">
+                <use xlink:href="#8lsw8sn7mb"/>
+            </mask>
+            <path fill="#231916" d="M5.943 16.105c-.14 0-.28-.04-.402-.117-.217-.138-.348-.377-.348-.633V8.86L.123 1.163C-.029.932-.04.636.09.394.22.15.474 0 .75 0h13.863c.276 0 .53.151.66.395.131.242.118.538-.034.768L10.17 8.86v4.867c0 .291-.168.556-.432.68l-3.477 1.627c-.1.047-.21.07-.318.07" mask="url(#hy7o6cj9tc)"/>
+        </g>
+    </g>
+</svg>

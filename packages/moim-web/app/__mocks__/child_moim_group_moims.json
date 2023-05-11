@@ -1,0 +1,2618 @@
+{
+  "data": [
+    {
+      "id": "G0FRETAU6F",
+      "name": "가가가",
+      "parent": "G0CUWIRCRG",
+      "domain": "padobox-gaga",
+      "sort_key": "X1649758524482",
+      "icon": {
+        "type": "text",
+        "data": {
+          "text": "가",
+          "color": "#ffffffff",
+          "bg_color": "#ff00a5ff"
+        }
+      },
+      "banner": {
+        "type": "color",
+        "data": {
+          "color": "#ff00a5ff"
+        }
+      },
+      "is_public": true,
+      "is_hub": false,
+      "created_at": 1644409340067,
+      "users_count": 11,
+      "sub_groups_count": 0,
+      "url": "https://padobox-gaga.vingle.network",
+      "profile_blocks_Config": {
+        "show": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "chipSize": "medium"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "badgeSize": "medium",
+              "showTitle": true
+            }
+          }
+        ],
+        "preview": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "maxLine": 3,
+              "chipSize": "small"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "maxLine": 1,
+              "badgeSize": "small",
+              "showTitle": true
+            }
+          }
+        ]
+      },
+      "available_profile_blocks_config": {
+        "show": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "chipSize": "medium"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "badgeSize": "medium",
+              "showTitle": true
+            }
+          }
+        ],
+        "preview": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "maxLine": 3,
+              "chipSize": "small"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "maxLine": 1,
+              "badgeSize": "small",
+              "showTitle": true
+            }
+          }
+        ]
+      },
+      "default_channel": {
+        "type": "forum",
+        "channel_id": "QSXP7YO6G"
+      },
+      "home": {
+        "app": {
+          "type": "channel",
+          "ref": {
+            "type": "forum",
+            "id": "QSXP7YO6G"
+          }
+        },
+        "web": {
+          "type": "channel",
+          "ref": {
+            "type": "forum",
+            "id": "QSXP7YO6G"
+          }
+        }
+      },
+      "sign_up_config": {
+        "adAgreement": {
+          "nightTime": {
+            "app": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "sms": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "email": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "dayTime": {
+            "app": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "sms": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "email": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          }
+        },
+        "phone": {
+          "state": "deactivated",
+          "isPrivate": true
+        },
+        "others": {}
+      },
+      "sign_up_config_v2": {
+        "adAgreement": {
+          "sms": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "appPush": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "webPush": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "email": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          }
+        },
+        "phone": {
+          "state": "deactivated",
+          "isPrivate": true
+        },
+        "others": {}
+      },
+      "config": {
+        "showMemberCount": true,
+        "hideSortingOptions": false,
+        "useOnlyParentProfile": true,
+        "disableUserNameChange": false,
+        "enableNFT": false,
+        "contracts": []
+      },
+      "analytics": {
+        "google": "UA-217354418-1",
+        "tagManager": "GTM-NLF6DQK"
+      },
+      "joined": false,
+      "latest_at": 1653023535316,
+      "sorting_options": [
+        {
+          "sort": "sortKey",
+          "order": "desc"
+        },
+        {
+          "sort": "createdAt",
+          "order": "desc"
+        },
+        {
+          "sort": "createdAt",
+          "order": "asc"
+        },
+        {
+          "sort": "latestAt",
+          "order": "desc"
+        },
+        {
+          "sort": "latestAt",
+          "order": "asc"
+        }
+      ],
+      "navigation_config": {
+        "isIndependentChild": false
+      },
+      "text_sets": {
+        "joinButton": {
+          "en": {
+            "singular": "Join",
+            "plural": "Join"
+          },
+          "ko": {
+            "singular": "가입",
+            "plural": "가입"
+          }
+        },
+        "join_button": {
+          "en": {
+            "singular": "Joinnnnnn",
+            "plural": "Joinnnnnn"
+          },
+          "ko": {
+            "singular": "가이이이이입",
+            "plural": "가이이이이입"
+          }
+        },
+        "childMoim": {
+          "en": {
+            "singular": "Community",
+            "plural": "Communities"
+          },
+          "ko": {
+            "singular": "커뮤니티",
+            "plural": "커뮤니티"
+          }
+        },
+        "child_moim": {
+          "en": {
+            "singular": "Community",
+            "plural": "Communities"
+          },
+          "ko": {
+            "singular": "커뮤니티",
+            "plural": "커뮤니티"
+          }
+        },
+        "member": {
+          "en": {
+            "singular": "Member",
+            "plural": "Members"
+          },
+          "ko": {
+            "singular": "회원",
+            "plural": "회원"
+          }
+        },
+        "non_joined_child_feedback_full": {
+          "en": {
+            "singular": "Join to see this page.",
+            "plural": "Join to see this page."
+          },
+          "ko": {
+            "singular": "화면을 보려면 가입을 먼저 해주세요.!!~~",
+            "plural": "화면을 보려면 가입을 먼저 해주세요.!!~~"
+          }
+        },
+        "non_joined_child_feedback_input": {
+          "en": {
+            "singular": "Join to send a message to this channel.",
+            "plural": "Join to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_joined_child_feedback_input_chat": {
+          "en": {
+            "singular": "Join man~",
+            "plural": "Join man~"
+          },
+          "ko": {
+            "singular": "가입하세요오오오오~~~",
+            "plural": "가입하세요오오오오~~~"
+          }
+        },
+        "non_joined_child_feedback_input_comment": {
+          "en": {
+            "singular": "Join to write a comment to this post.",
+            "plural": "Join to write a comment to this post."
+          },
+          "ko": {
+            "singular": "댓글을 작성하려면 가입을 먼저 해주세요.!!!~~",
+            "plural": "댓글을 작성하려면 가입을 먼저 해주세요.!!!~~"
+          }
+        },
+        "non_signed_up_parent_feedback_full": {
+          "en": {
+            "singular": "Login to see this page.",
+            "plural": "Login to see this page."
+          },
+          "ko": {
+            "singular": "화면을 보려면 로그인을 먼저 해주세요.",
+            "plural": "화면을 보려면 로그인을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input": {
+          "en": {
+            "singular": "Sign up to send a message to this channel.",
+            "plural": "Sign up to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input_chat": {
+          "en": {
+            "singular": "Login to send a message to this channel.",
+            "plural": "Login to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 로그인을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 로그인을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input_comment": {
+          "en": {
+            "singular": "Login to write a comment to this post.",
+            "plural": "Login to write a comment to this post."
+          },
+          "ko": {
+            "singular": "댓글을 작성하려면 로그인을 먼저 해주세요.",
+            "plural": "댓글을 작성하려면 로그인을 먼저 해주세요."
+          }
+        },
+        "moim_card_explore": {
+          "en": {
+            "singular": "Explore",
+            "plural": "Explore"
+          },
+          "ko": {
+            "singular": "둘러보기",
+            "plural": "둘러보기"
+          }
+        },
+        "moim_card_joined": {
+          "en": {
+            "singular": "Joined",
+            "plural": "Joined"
+          },
+          "ko": {
+            "singular": "참여 중",
+            "plural": "참여 중"
+          }
+        },
+        "child_moim_coming_soon": {
+          "en": {
+            "singular": "Coming soon",
+            "plural": "Coming soon"
+          },
+          "ko": {
+            "singular": "오픈 예정",
+            "plural": "오픈 예정"
+          }
+        },
+        "child_moim_active": {
+          "en": {
+            "singular": "Active",
+            "plural": "Active"
+          },
+          "ko": {
+            "singular": "활동 중",
+            "plural": "활동 중"
+          }
+        },
+        "child_moim_terminated": {
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          },
+          "ko": {
+            "singular": "종료뱀",
+            "plural": "종료뱀"
+          }
+        },
+        "no_right_read_post_list_text": {
+          "en": {
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view this page.\nThe right to view this page is required.",
+            "plural": "Not able to view this page.\nThe right to view this page is required."
+          }
+        },
+        "no_right_read_post_show_text": {
+          "en": {
+            "singular": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to read this post.\nThe right to read this post is required.",
+            "plural": "Not able to read this post.\nThe right to read this post is required."
+          }
+        },
+        "no_right_read_comment_show_text": {
+          "en": {
+            "singular": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view the comments of this post.\nThe right to read comments is required.",
+            "plural": "Not able to view the comments of this post.\nThe right to read comments is required."
+          }
+        },
+        "no_right_read_chat_show_text": {
+          "en": {
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view this page.\nThe right to see this page is required.",
+            "plural": "Not able to view this page.\nThe right to see this page is required."
+          }
+        },
+        "no_right_write_comment_text": {
+          "en": {
+            "singular": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다.",
+            "plural": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to write comments for this post.",
+            "plural": "You do not have the right to write comments for this post."
+          }
+        },
+        "no_right_write_chat_text": {
+          "en": {
+            "singular": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다.",
+            "plural": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to send messages to this channel.",
+            "plural": "You do not have the right to send messages to this channel."
+          }
+        },
+        "no_right_write_post_text": {
+          "en": {
+            "singular": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다.",
+            "plural": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to write posts on this channel.",
+            "plural": "You do not have the right to write posts on this channel."
+          }
+        },
+        "no_right_react_post_text": {
+          "en": {
+            "singular": "이 게시글에 반응할 수 있는 권한이 없습니다.",
+            "plural": "이 게시글에 반응할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to react to this post.",
+            "plural": "You do not have the right to react to this post."
+          }
+        },
+        "no_right_react_comment_text": {
+          "en": {
+            "singular": "이 댓글에 반응할 수 있는 권한이 없습니다.",
+            "plural": "이 댓글에 반응할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to react to the comments of this post.",
+            "plural": "You do not have the right to react to the comments of this post."
+          }
+        },
+        "empty_forum_text": {
+          "en": {
+            "singular": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!",
+            "plural": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!"
+          },
+          "ko": {
+            "singular": "It's a little bit cold out here...\nShow your warm attention to this channel!",
+            "plural": "It's a little bit cold out here...\nShow your warm attention to this channel!"
+          }
+        },
+        "empty_position_show_text": {
+          "en": {
+            "singular": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!",
+            "plural": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!"
+          },
+          "ko": {
+            "singular": "Nobody here yet...\nPlease take an interest in this position.",
+            "plural": "Nobody here yet...\nPlease take an interest in this position."
+          }
+        },
+        "empty_profile_show_text": {
+          "en": {
+            "singular": "아직 표시할 활동이 없어요",
+            "plural": "아직 표시할 활동이 없어요"
+          },
+          "ko": {
+            "singular": "No footprint has been left here...",
+            "plural": "No footprint has been left here..."
+          }
+        },
+        "comment_empty_emoji": {
+          "en": {
+            "singular": "💭",
+            "plural": "💭"
+          },
+          "ko": {
+            "singular": "💭",
+            "plural": "💭"
+          }
+        },
+        "comment_empty_text": {
+          "en": {
+            "singular": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!",
+            "plural": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!"
+          },
+          "ko": {
+            "singular": "No comments yet,\nShare your thoughts about this post!",
+            "plural": "No comments yet,\nShare your thoughts about this post!"
+          }
+        },
+        "button_buy_now": {
+          "ko": {
+            "singular": "구매하기",
+            "plural": "구매하기"
+          },
+          "en": {
+            "singular": "Buy Now",
+            "plural": "Buy Now"
+          }
+        },
+        "sale_status_scheduled": {
+          "ko": {
+            "singular": "판매예정!!!",
+            "plural": "판매예정!!!"
+          },
+          "en": {
+            "singular": "To Be Available",
+            "plural": "To Be Available"
+          }
+        },
+        "sale_status_for_sale": {
+          "ko": {
+            "singular": "판매중 ㅡㅡ",
+            "plural": "판매중 ㅡㅡ"
+          },
+          "en": {
+            "singular": "For Sale",
+            "plural": "For Sale"
+          }
+        },
+        "sale_status_finished": {
+          "ko": {
+            "singular": "판매종료 ;;",
+            "plural": "판매종료 ;;"
+          },
+          "en": {
+            "singular": "Discontinued",
+            "plural": "Discontinued"
+          }
+        },
+        "sale_status_sold_out": {
+          "ko": {
+            "singular": "재고없음ㅇㅇㅇ",
+            "plural": "재고없음ㅇㅇㅇ"
+          },
+          "en": {
+            "singular": "Out of Stock",
+            "plural": "Out of Stock"
+          }
+        },
+        "back_this_project": {
+          "ko": {
+            "singular": "펀딩하기",
+            "plural": "펀딩하기"
+          },
+          "en": {
+            "singular": "Back this project",
+            "plural": "Back this project"
+          }
+        },
+        "funding_status_scheduled": {
+          "ko": {
+            "singular": "펀딩예정!!",
+            "plural": "펀딩예정!!"
+          },
+          "en": {
+            "singular": "To Be Launched",
+            "plural": "To Be Launched"
+          }
+        },
+        "funding_status_completed": {
+          "ko": {
+            "singular": "펀딩 끝_텍스트 수정",
+            "plural": "펀딩 끝_텍스트 수정"
+          },
+          "en": {
+            "singular": "End of Project",
+            "plural": "End of Project"
+          }
+        },
+        "funding_status_sold_out": {
+          "ko": {
+            "singular": "펀딩못함",
+            "plural": "펀딩못함"
+          },
+          "en": {
+            "singular": "Target Met",
+            "plural": "Target Met"
+          }
+        },
+        "my_shopping_menu_title": {
+          "ko": {
+            "singular": "내 펀딩",
+            "plural": "내 펀딩"
+          },
+          "en": {
+            "singular": "My Shopping",
+            "plural": "My Shopping"
+          }
+        },
+        "my_shopping_orders_menu_title": {
+          "ko": {
+            "singular": "펀딩내역",
+            "plural": "펀딩내역"
+          },
+          "en": {
+            "singular": "Orders",
+            "plural": "Orders"
+          }
+        },
+        "my_shopping_orders_empty_title": {
+          "ko": {
+            "singular": "아직 펀딩내역이 없습니다.",
+            "plural": "아직 펀딩내역이 없습니다."
+          },
+          "en": {
+            "singular": "No order history yet.",
+            "plural": "No order history yet."
+          }
+        },
+        "my_shopping_orders_id_title": {
+          "ko": {
+            "singular": "결제번호",
+            "plural": "결제번호"
+          },
+          "en": {
+            "singular": "Order No.",
+            "plural": "Order No."
+          }
+        },
+        "my_shopping_orders_details_title": {
+          "ko": {
+            "singular": "펀딩상세",
+            "plural": "펀딩상세"
+          },
+          "en": {
+            "singular": "Order Details",
+            "plural": "Order Details"
+          }
+        },
+        "my_shopping_orders_details_payment_title": {
+          "ko": {
+            "singular": "펀딩/결제 정보",
+            "plural": "펀딩/결제 정보"
+          },
+          "en": {
+            "singular": "Order/Payment",
+            "plural": "Order/Payment"
+          }
+        },
+        "my_shopping_orders_total_product_title": {
+          "ko": {
+            "singular": "총 펀딩 가격222",
+            "plural": "총 펀딩 가격222"
+          },
+          "en": {
+            "singular": "Total Product Price",
+            "plural": "Total Product Price"
+          }
+        },
+        "my_shopping_orders_buyer_info": {
+          "ko": {
+            "singular": "후원자 정보",
+            "plural": "후원자 정보"
+          },
+          "en": {
+            "singular": "Buyer Information",
+            "plural": "Buyer Information"
+          }
+        },
+        "my_shopping_coupon_credit_menu_title": {
+          "ko": {
+            "singular": "혜택",
+            "plural": "혜택"
+          },
+          "en": {
+            "singular": "Coupon/Credit",
+            "plural": "Coupon/Credit"
+          }
+        },
+        "search_result_menu_products": {
+          "ko": {
+            "singular": "상품_수정됨",
+            "plural": "상품_수정됨"
+          },
+          "en": {
+            "singular": "Products_customized",
+            "plural": "Products_customized"
+          }
+        },
+        "non_joined_child_feedback_input_review_reply": {
+          "ko": {
+            "singular": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요.",
+            "plural": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "singular": "Join to write a comment to this review.",
+            "plural": "Join to write a comment to this review."
+          }
+        },
+        "non_joined_child_feedback_input_qna_answer": {
+          "ko": {
+            "singular": "답변을 작성하려면 가입을 먼저 해주세요.",
+            "plural": "답변을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "singular": "Join to write an answer to this question.",
+            "plural": "Join to write an answer to this question."
+          }
+        },
+        "product_review_lowercase": {
+          "ko": {
+            "singular": "리뷰",
+            "plural": "리뷰"
+          },
+          "en": {
+            "singular": "review",
+            "plural": "review"
+          }
+        },
+        "product_question_lowercase": {
+          "ko": {
+            "singular": "질문",
+            "plural": "질문"
+          },
+          "en": {
+            "singular": "question",
+            "plural": "question"
+          }
+        },
+        "product_comment_lowercase": {
+          "ko": {
+            "singular": "응원댓글",
+            "plural": "응원댓글"
+          },
+          "en": {
+            "singular": "comment",
+            "plural": "comment"
+          }
+        },
+        "product_review_reply_lowercase": {
+          "ko": {
+            "singular": "댓글",
+            "plural": "댓글"
+          },
+          "en": {
+            "singular": "comment",
+            "plural": "comment"
+          }
+        },
+        "product_answer_reply_lowercase": {
+          "ko": {
+            "singular": "답변",
+            "plural": "답변"
+          },
+          "en": {
+            "singular": "answer",
+            "plural": "answer"
+          }
+        },
+        "product_comment_reply_lowercase": {
+          "ko": {
+            "singular": "답글",
+            "plural": "답글"
+          },
+          "en": {
+            "singular": "reply",
+            "plural": "reply"
+          }
+        },
+        "product_engagement_contents_1depth_thread_types": {
+          "ko": {
+            "singular": "리뷰, 질문, 응원댓글",
+            "plural": "리뷰, 질문, 응원댓글"
+          },
+          "en": {
+            "singular": "review, question, comment",
+            "plural": "reviews, questions, comments"
+          }
+        },
+        "product_engagement_contents_2depth_thread_types": {
+          "ko": {
+            "singular": "답글",
+            "plural": "답글"
+          },
+          "en": {
+            "singular": "reply",
+            "plural": "replies"
+          }
+        },
+        "search_tab_default_body": {
+          "ko": {
+            "singular": "찾고 싶은 내용을 검색해보세요!",
+            "plural": "찾고 싶은 내용을 검색해보세요!"
+          },
+          "en": {
+            "singular": "Search whatever you want!",
+            "plural": "Search whatever you want!"
+          }
+        },
+        "button_mint_nft_upcoming": {
+          "ko": {
+            "singular": "Mint is coming",
+            "plural": "Mint is coming"
+          },
+          "en": {
+            "singular": "Mint is coming",
+            "plural": "Mint is coming"
+          }
+        },
+        "button_mint_nft": {
+          "ko": {
+            "singular": "민팅하기",
+            "plural": "민팅하기"
+          },
+          "en": {
+            "singular": "Mint",
+            "plural": "Mint"
+          }
+        },
+        "button_minted_nft": {
+          "ko": {
+            "singular": "민팅완료",
+            "plural": "민팅완료"
+          },
+          "en": {
+            "singular": "Minted",
+            "plural": "Minted"
+          }
+        },
+        "button_mint_nft_terminated": {
+          "ko": {
+            "singular": "민팅종료",
+            "plural": "민팅종료"
+          },
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          }
+        },
+        "leave_parent_moim_notice": {
+          "ko": {
+            "singular": "탈퇴 전 아래 내용을 꼭 확인해주세요.\n- 탈퇴 시 계정 정보가 삭제되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 시 적립금 및 쿠폰이 모두 소멸되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 후 통신비밀보호법에 따라 웹사이트 방문기록이 3개월간 보관됩니다.\n- 탈퇴 후 소비자보호법에 따라 계약 또는 청약철회, 대금결제 및 재화 등의 공급에 관한 기록이 5년간 보관됩니다.",
+            "plural": "탈퇴 전 아래 내용을 꼭 확인해주세요.\n- 탈퇴 시 계정 정보가 삭제되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 시 적립금 및 쿠폰이 모두 소멸되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 후 통신비밀보호법에 따라 웹사이트 방문기록이 3개월간 보관됩니다.\n- 탈퇴 후 소비자보호법에 따라 계약 또는 청약철회, 대금결제 및 재화 등의 공급에 관한 기록이 5년간 보관됩니다."
+          },
+          "en": {
+            "singular": "Please check the following.\n- The user data will be permanently deleted and will not be restored even if you rejoin.\n- Your whole credits and coupons will be deleted and will not be restored.",
+            "plural": "Please check the following.\n- The user data will be permanently deleted and will not be restored even if you rejoin.\n- Your whole credits and coupons will be deleted and will not be restored."
+          }
+        },
+        "non_signed_up_parent_feedback_noti_list": {
+          "ko": {
+            "singular": "알림 목록을 보려면 로그인을 해주세요.",
+            "plural": "알림 목록을 보려면 로그인을 해주세요."
+          },
+          "en": {
+            "singular": "Login to see the notification list.",
+            "plural": "Login to see the notification list."
+          }
+        },
+        "non_signed_up_parent_feedback_profile": {
+          "ko": {
+            "singular": "내 프로필을 보려면 로그인을 해주세요.",
+            "plural": "내 프로필을 보려면 로그인을 해주세요."
+          },
+          "en": {
+            "singular": "Login to see your profile.",
+            "plural": "Login to see your profile."
+          }
+        },
+        "dialog_ask_login_body": {
+          "ko": {
+            "singular": "로그인이 필요합니다. 로그인하시겠습니까?",
+            "plural": "로그인이 필요합니다. 로그인하시겠습니까?"
+          },
+          "en": {
+            "singular": "Do you want to login?",
+            "plural": "Do you want to login?"
+          }
+        },
+        "forum_channel_to_be_started": {
+          "en": {
+            "singular": "To be started",
+            "plural": "To be started"
+          },
+          "ko": {
+            "singular": "시작 예정",
+            "plural": "시작 예정"
+          }
+        },
+        "forum_channel_ongoing": {
+          "en": {
+            "singular": "Ongoing",
+            "plural": "Ongoing"
+          },
+          "ko": {
+            "singular": "진행 중",
+            "plural": "진행 중"
+          }
+        },
+        "forum_channel_terminated": {
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          },
+          "ko": {
+            "singular": "종료",
+            "plural": "종료"
+          }
+        }
+      },
+      "raw_text_sets": {
+        "no_right_react_post_text": {
+          "ko": {
+            "plural": "You do not have the right to react to this post.",
+            "singular": "You do not have the right to react to this post."
+          },
+          "en": {
+            "plural": "이 게시글에 반응할 수 있는 권한이 없습니다.",
+            "singular": "이 게시글에 반응할 수 있는 권한이 없습니다."
+          }
+        },
+        "forum_channel_ongoing": {
+          "ko": {
+            "plural": "진행 중",
+            "singular": "진행 중"
+          },
+          "en": {
+            "plural": "Ongoing",
+            "singular": "Ongoing"
+          }
+        },
+        "my_shopping_menu_title": {
+          "ko": {
+            "plural": "내 펀딩",
+            "singular": "내 펀딩"
+          },
+          "en": {
+            "plural": "My Shopping",
+            "singular": "My Shopping"
+          }
+        },
+        "forum_channel_to_be_started": {
+          "ko": {
+            "plural": "시작 예정",
+            "singular": "시작 예정"
+          },
+          "en": {
+            "plural": "To be started",
+            "singular": "To be started"
+          }
+        },
+        "my_shopping_orders_id_title": {
+          "ko": {
+            "plural": "결제번호",
+            "singular": "결제번호"
+          },
+          "en": {
+            "plural": "Order No.",
+            "singular": "Order No."
+          }
+        },
+        "back_this_project": {
+          "ko": {
+            "plural": "펀딩하기",
+            "singular": "펀딩하기"
+          },
+          "en": {
+            "plural": "Back this project",
+            "singular": "Back this project"
+          }
+        },
+        "no_right_read_comment_show_text": {
+          "ko": {
+            "plural": "Not able to view the comments of this post.\nThe right to read comments is required.",
+            "singular": "Not able to view the comments of this post.\nThe right to read comments is required."
+          },
+          "en": {
+            "plural": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "singular": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          }
+        },
+        "non_joined_child_feedback_input": {
+          "ko": {
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Join to send a message to this channel.",
+            "singular": "Join to send a message to this channel."
+          }
+        },
+        "comment_empty_emoji": {
+          "ko": {
+            "plural": "💭",
+            "singular": "💭"
+          },
+          "en": {
+            "plural": "💭",
+            "singular": "💭"
+          }
+        },
+        "my_shopping_orders_total_product_title": {
+          "ko": {
+            "plural": "총 펀딩 가격222",
+            "singular": "총 펀딩 가격222"
+          },
+          "en": {
+            "plural": "Total Product Price",
+            "singular": "Total Product Price"
+          }
+        },
+        "child_moim_active": {
+          "ko": {
+            "plural": "활동 중",
+            "singular": "활동 중"
+          },
+          "en": {
+            "plural": "Active",
+            "singular": "Active"
+          }
+        },
+        "comment_empty_text": {
+          "ko": {
+            "plural": "No comments yet,\nShare your thoughts about this post!",
+            "singular": "No comments yet,\nShare your thoughts about this post!"
+          },
+          "en": {
+            "plural": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!",
+            "singular": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!"
+          }
+        },
+        "sale_status_sold_out": {
+          "ko": {
+            "plural": "재고없음ㅇㅇㅇ",
+            "singular": "재고없음ㅇㅇㅇ"
+          },
+          "en": {
+            "plural": "Out of Stock",
+            "singular": "Out of Stock"
+          }
+        },
+        "product_comment_reply_lowercase": {
+          "ko": {
+            "plural": "답글",
+            "singular": "답글"
+          },
+          "en": {
+            "plural": "reply",
+            "singular": "reply"
+          }
+        },
+        "funding_status_sold_out": {
+          "ko": {
+            "plural": "펀딩못함",
+            "singular": "펀딩못함"
+          },
+          "en": {
+            "plural": "Target Met",
+            "singular": "Target Met"
+          }
+        },
+        "no_right_react_comment_text": {
+          "ko": {
+            "plural": "You do not have the right to react to the comments of this post.",
+            "singular": "You do not have the right to react to the comments of this post."
+          },
+          "en": {
+            "plural": "이 댓글에 반응할 수 있는 권한이 없습니다.",
+            "singular": "이 댓글에 반응할 수 있는 권한이 없습니다."
+          }
+        },
+        "product_review_lowercase": {
+          "ko": {
+            "plural": "리뷰",
+            "singular": "리뷰"
+          },
+          "en": {
+            "plural": "review",
+            "singular": "review"
+          }
+        },
+        "sale_status_for_sale": {
+          "ko": {
+            "plural": "판매중 ㅡㅡ",
+            "singular": "판매중 ㅡㅡ"
+          },
+          "en": {
+            "plural": "For Sale",
+            "singular": "For Sale"
+          }
+        },
+        "empty_forum_text": {
+          "ko": {
+            "plural": "It's a little bit cold out here...\nShow your warm attention to this channel!",
+            "singular": "It's a little bit cold out here...\nShow your warm attention to this channel!"
+          },
+          "en": {
+            "plural": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!",
+            "singular": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!"
+          }
+        },
+        "my_shopping_orders_menu_title": {
+          "ko": {
+            "plural": "펀딩내역",
+            "singular": "펀딩내역"
+          },
+          "en": {
+            "plural": "Orders",
+            "singular": "Orders"
+          }
+        },
+        "non_joined_child_feedback_input_comment": {
+          "ko": {
+            "plural": "댓글을 작성하려면 가입을 먼저 해주세요.!!!~~",
+            "singular": "댓글을 작성하려면 가입을 먼저 해주세요.!!!~~"
+          },
+          "en": {
+            "plural": "Join to write a comment to this post.",
+            "singular": "Join to write a comment to this post."
+          }
+        },
+        "non_joined_child_feedback_full": {
+          "ko": {
+            "plural": "화면을 보려면 가입을 먼저 해주세요.!!~~",
+            "singular": "화면을 보려면 가입을 먼저 해주세요.!!~~"
+          },
+          "en": {
+            "plural": "Join to see this page.",
+            "singular": "Join to see this page."
+          }
+        },
+        "search_result_menu_products": {
+          "ko": {
+            "plural": "상품_수정됨",
+            "singular": "상품_수정됨"
+          },
+          "en": {
+            "plural": "Products_customized",
+            "singular": "Products_customized"
+          }
+        },
+        "non_joined_child_feedback_input_chat": {
+          "ko": {
+            "plural": "가입하세요오오오오~~~",
+            "singular": "가입하세요오오오오~~~"
+          },
+          "en": {
+            "plural": "Join man~",
+            "singular": "Join man~"
+          }
+        },
+        "product_answer_reply_lowercase": {
+          "ko": {
+            "plural": "답변",
+            "singular": "답변"
+          },
+          "en": {
+            "plural": "answer",
+            "singular": "answer"
+          }
+        },
+        "child_moim_coming_soon": {
+          "ko": {
+            "plural": "오픈 예정",
+            "singular": "오픈 예정"
+          },
+          "en": {
+            "plural": "Coming soon",
+            "singular": "Coming soon"
+          }
+        },
+        "child_moim_terminated": {
+          "ko": {
+            "plural": "종료뱀",
+            "singular": "종료뱀"
+          },
+          "en": {
+            "plural": "Terminated",
+            "singular": "Terminated"
+          }
+        },
+        "my_shopping_orders_details_payment_title": {
+          "ko": {
+            "plural": "펀딩/결제 정보",
+            "singular": "펀딩/결제 정보"
+          },
+          "en": {
+            "plural": "Order/Payment",
+            "singular": "Order/Payment"
+          }
+        },
+        "non_signed_up_parent_feedback_input": {
+          "ko": {
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Sign up to send a message to this channel.",
+            "singular": "Sign up to send a message to this channel."
+          }
+        },
+        "product_review_reply_lowercase": {
+          "ko": {
+            "plural": "댓글",
+            "singular": "댓글"
+          },
+          "en": {
+            "plural": "comment",
+            "singular": "comment"
+          }
+        },
+        "my_shopping_orders_buyer_info": {
+          "ko": {
+            "plural": "후원자 정보",
+            "singular": "후원자 정보"
+          },
+          "en": {
+            "plural": "Buyer Information",
+            "singular": "Buyer Information"
+          }
+        },
+        "forum_channel_terminated": {
+          "ko": {
+            "plural": "종료",
+            "singular": "종료"
+          },
+          "en": {
+            "plural": "Terminated",
+            "singular": "Terminated"
+          }
+        },
+        "non_signed_up_parent_feedback_input_comment": {
+          "ko": {
+            "plural": "댓글을 작성하려면 로그인을 먼저 해주세요.",
+            "singular": "댓글을 작성하려면 로그인을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Login to write a comment to this post.",
+            "singular": "Login to write a comment to this post."
+          }
+        },
+        "join_button": {
+          "ko": {
+            "plural": "가이이이이입",
+            "singular": "가이이이이입"
+          },
+          "en": {
+            "plural": "Joinnnnnn",
+            "singular": "Joinnnnnn"
+          }
+        },
+        "no_right_read_post_show_text": {
+          "ko": {
+            "plural": "Not able to read this post.\nThe right to read this post is required.",
+            "singular": "Not able to read this post.\nThe right to read this post is required."
+          },
+          "en": {
+            "plural": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "singular": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          }
+        },
+        "button_buy_now": {
+          "ko": {
+            "plural": "구매하기",
+            "singular": "구매하기"
+          },
+          "en": {
+            "plural": "Buy Now",
+            "singular": "Buy Now"
+          }
+        },
+        "empty_profile_show_text": {
+          "ko": {
+            "plural": "No footprint has been left here...",
+            "singular": "No footprint has been left here..."
+          },
+          "en": {
+            "plural": "아직 표시할 활동이 없어요",
+            "singular": "아직 표시할 활동이 없어요"
+          }
+        },
+        "child_moim": {
+          "ko": {
+            "plural": "커뮤니티",
+            "singular": "커뮤니티"
+          },
+          "en": {
+            "plural": "Communities",
+            "singular": "Community"
+          }
+        },
+        "moim_card_explore": {
+          "ko": {
+            "plural": "둘러보기",
+            "singular": "둘러보기"
+          },
+          "en": {
+            "plural": "Explore",
+            "singular": "Explore"
+          }
+        },
+        "non_signed_up_parent_feedback_input_chat": {
+          "ko": {
+            "plural": "메시지를 보내려면 로그인을 먼저 해주세요.",
+            "singular": "메시지를 보내려면 로그인을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Login to send a message to this channel.",
+            "singular": "Login to send a message to this channel."
+          }
+        },
+        "sale_status_finished": {
+          "ko": {
+            "plural": "판매종료 ;;",
+            "singular": "판매종료 ;;"
+          },
+          "en": {
+            "plural": "Discontinued",
+            "singular": "Discontinued"
+          }
+        },
+        "empty_position_show_text": {
+          "ko": {
+            "plural": "Nobody here yet...\nPlease take an interest in this position.",
+            "singular": "Nobody here yet...\nPlease take an interest in this position."
+          },
+          "en": {
+            "plural": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!",
+            "singular": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!"
+          }
+        },
+        "non_signed_up_parent_feedback_full": {
+          "ko": {
+            "plural": "화면을 보려면 로그인을 먼저 해주세요.",
+            "singular": "화면을 보려면 로그인을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Login to see this page.",
+            "singular": "Login to see this page."
+          }
+        },
+        "childMoim": {
+          "ko": {
+            "plural": "커뮤니티",
+            "singular": "커뮤니티"
+          },
+          "en": {
+            "plural": "Communities",
+            "singular": "Community"
+          }
+        },
+        "product_question_lowercase": {
+          "ko": {
+            "plural": "질문",
+            "singular": "질문"
+          },
+          "en": {
+            "plural": "question",
+            "singular": "question"
+          }
+        },
+        "joinButton": {
+          "ko": {
+            "plural": "가입",
+            "singular": "가입"
+          },
+          "en": {
+            "plural": "Join",
+            "singular": "Join"
+          }
+        },
+        "member": {
+          "ko": {
+            "plural": "회원",
+            "singular": "회원"
+          },
+          "en": {
+            "plural": "Members",
+            "singular": "Member"
+          }
+        },
+        "no_right_read_post_list_text": {
+          "ko": {
+            "plural": "Not able to view this page.\nThe right to view this page is required.",
+            "singular": "Not able to view this page.\nThe right to view this page is required."
+          },
+          "en": {
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          }
+        },
+        "my_shopping_coupon_credit_menu_title": {
+          "ko": {
+            "plural": "혜택",
+            "singular": "혜택"
+          },
+          "en": {
+            "plural": "Coupon/Credit",
+            "singular": "Coupon/Credit"
+          }
+        },
+        "moim_card_joined": {
+          "ko": {
+            "plural": "참여 중",
+            "singular": "참여 중"
+          },
+          "en": {
+            "plural": "Joined",
+            "singular": "Joined"
+          }
+        },
+        "funding_status_scheduled": {
+          "ko": {
+            "plural": "펀딩예정!!",
+            "singular": "펀딩예정!!"
+          },
+          "en": {
+            "plural": "To Be Launched",
+            "singular": "To Be Launched"
+          }
+        },
+        "no_right_write_comment_text": {
+          "ko": {
+            "plural": "You do not have the right to write comments for this post.",
+            "singular": "You do not have the right to write comments for this post."
+          },
+          "en": {
+            "plural": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다.",
+            "singular": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다."
+          }
+        },
+        "no_right_read_chat_show_text": {
+          "ko": {
+            "plural": "Not able to view this page.\nThe right to see this page is required.",
+            "singular": "Not able to view this page.\nThe right to see this page is required."
+          },
+          "en": {
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          }
+        },
+        "non_joined_child_feedback_input_qna_answer": {
+          "ko": {
+            "plural": "답변을 작성하려면 가입을 먼저 해주세요.",
+            "singular": "답변을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Join to write an answer to this question.",
+            "singular": "Join to write an answer to this question."
+          }
+        },
+        "sale_status_scheduled": {
+          "ko": {
+            "plural": "판매예정!!!",
+            "singular": "판매예정!!!"
+          },
+          "en": {
+            "plural": "To Be Available",
+            "singular": "To Be Available"
+          }
+        },
+        "product_comment_lowercase": {
+          "ko": {
+            "plural": "응원댓글",
+            "singular": "응원댓글"
+          },
+          "en": {
+            "plural": "comment",
+            "singular": "comment"
+          }
+        },
+        "no_right_write_chat_text": {
+          "ko": {
+            "plural": "You do not have the right to send messages to this channel.",
+            "singular": "You do not have the right to send messages to this channel."
+          },
+          "en": {
+            "plural": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다.",
+            "singular": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다."
+          }
+        },
+        "my_shopping_orders_empty_title": {
+          "ko": {
+            "plural": "아직 펀딩내역이 없습니다.",
+            "singular": "아직 펀딩내역이 없습니다."
+          },
+          "en": {
+            "plural": "No order history yet.",
+            "singular": "No order history yet."
+          }
+        },
+        "no_right_write_post_text": {
+          "ko": {
+            "plural": "You do not have the right to write posts on this channel.",
+            "singular": "You do not have the right to write posts on this channel."
+          },
+          "en": {
+            "plural": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다.",
+            "singular": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다."
+          }
+        },
+        "my_shopping_orders_details_title": {
+          "ko": {
+            "plural": "펀딩상세",
+            "singular": "펀딩상세"
+          },
+          "en": {
+            "plural": "Order Details",
+            "singular": "Order Details"
+          }
+        },
+        "funding_status_completed": {
+          "ko": {
+            "plural": "펀딩 끝_텍스트 수정",
+            "singular": "펀딩 끝_텍스트 수정"
+          },
+          "en": {
+            "plural": "End of Project",
+            "singular": "End of Project"
+          }
+        },
+        "non_joined_child_feedback_input_review_reply": {
+          "ko": {
+            "plural": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요.",
+            "singular": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "plural": "Join to write a comment to this review.",
+            "singular": "Join to write a comment to this review."
+          }
+        }
+      },
+      "status": "ready",
+      "status_config": {
+        "type": "withoutPeriod",
+        "hideTimer": false,
+        "isEnabledStatus": true,
+        "enableScheduler": false,
+        "hideRemainTime": false
+      },
+      "updated_at": 1653023535554,
+      "mobile_top_tabs": [
+        {
+          "type": "home"
+        }
+      ]
+    },
+    {
+      "id": "G08VNKQA3P",
+      "name": "test1",
+      "parent": "G0CUWIRCRG",
+      "domain": "padobox-test1",
+      "sort_key": "X1643013267373",
+      "icon": {
+        "type": "text",
+        "data": {
+          "text": "t",
+          "color": "#ffffffff",
+          "bg_color": "#00e9ffff"
+        }
+      },
+      "banner": {
+        "type": "color",
+        "data": {
+          "color": "#00e9ffff"
+        }
+      },
+      "is_public": true,
+      "is_hub": false,
+      "created_at": 1637374032645,
+      "users_count": 10,
+      "sub_groups_count": 0,
+      "url": "https://padobox-test1.vingle.network",
+      "profile_blocks_Config": {
+        "show": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "chipSize": "medium"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "badgeSize": "medium",
+              "showTitle": true
+            }
+          }
+        ],
+        "preview": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "maxLine": 3,
+              "chipSize": "small"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "maxLine": 1,
+              "badgeSize": "small",
+              "showTitle": true
+            }
+          }
+        ]
+      },
+      "available_profile_blocks_config": {
+        "show": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "chipSize": "medium"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "badgeSize": "medium",
+              "showTitle": true
+            }
+          }
+        ],
+        "preview": [
+          {
+            "target": "all",
+            "block": {
+              "type": "positions",
+              "maxLine": 3,
+              "chipSize": "small"
+            }
+          },
+          {
+            "target": "all",
+            "block": {
+              "type": "badges",
+              "maxLine": 1,
+              "badgeSize": "small",
+              "showTitle": true
+            }
+          }
+        ]
+      },
+      "default_channel": {
+        "type": "conversation",
+        "channel_id": "CWUZO19AE"
+      },
+      "home": {
+        "app": {
+          "type": "channel",
+          "ref": {
+            "type": "conversation",
+            "id": "CWUZO19AE"
+          }
+        },
+        "web": {
+          "type": "channel",
+          "ref": {
+            "type": "conversation",
+            "id": "CWUZO19AE"
+          }
+        }
+      },
+      "sign_up_config": {
+        "adAgreement": {
+          "nightTime": {
+            "app": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "sms": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "email": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "dayTime": {
+            "app": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "sms": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "email": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          }
+        },
+        "phone": {
+          "state": "deactivated",
+          "isPrivate": true
+        },
+        "others": {}
+      },
+      "sign_up_config_v2": {
+        "adAgreement": {
+          "sms": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "appPush": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "webPush": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          },
+          "email": {
+            "nightTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            },
+            "dayTime": {
+              "state": "deactivated",
+              "isPrivate": false
+            }
+          }
+        },
+        "phone": {
+          "state": "deactivated",
+          "isPrivate": true
+        },
+        "others": {}
+      },
+      "config": {
+        "showMemberCount": true,
+        "hideSortingOptions": false,
+        "useOnlyParentProfile": false,
+        "disableUserNameChange": false,
+        "enableNFT": false,
+        "contracts": []
+      },
+      "joined": false,
+      "latest_at": 1644492519497,
+      "sorting_options": [
+        {
+          "sort": "sortKey",
+          "order": "desc"
+        },
+        {
+          "sort": "createdAt",
+          "order": "desc"
+        },
+        {
+          "sort": "createdAt",
+          "order": "asc"
+        },
+        {
+          "sort": "latestAt",
+          "order": "desc"
+        },
+        {
+          "sort": "latestAt",
+          "order": "asc"
+        }
+      ],
+      "navigation_config": {
+        "isIndependentChild": false
+      },
+      "text_sets": {
+        "joinButton": {
+          "en": {
+            "singular": "Join",
+            "plural": "Join"
+          },
+          "ko": {
+            "singular": "가입",
+            "plural": "가입"
+          }
+        },
+        "join_button": {
+          "en": {
+            "singular": "Join",
+            "plural": "Join"
+          },
+          "ko": {
+            "singular": "가입",
+            "plural": "가입"
+          }
+        },
+        "childMoim": {
+          "en": {
+            "singular": "Community",
+            "plural": "Communities"
+          },
+          "ko": {
+            "singular": "커뮤니티",
+            "plural": "커뮤니티"
+          }
+        },
+        "child_moim": {
+          "en": {
+            "singular": "Community",
+            "plural": "Communities"
+          },
+          "ko": {
+            "singular": "커뮤니티",
+            "plural": "커뮤니티"
+          }
+        },
+        "member": {
+          "en": {
+            "singular": "Member",
+            "plural": "Members"
+          },
+          "ko": {
+            "singular": "회원",
+            "plural": "회원"
+          }
+        },
+        "non_joined_child_feedback_full": {
+          "en": {
+            "singular": "Join to see this page.",
+            "plural": "Join to see this page."
+          },
+          "ko": {
+            "singular": "화면을 보려면 가입을 먼저 해주세요.",
+            "plural": "화면을 보려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_joined_child_feedback_input": {
+          "en": {
+            "singular": "Join to send a message to this channel.",
+            "plural": "Join to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_joined_child_feedback_input_chat": {
+          "en": {
+            "singular": "Join to send a message to this channel.",
+            "plural": "Join to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_joined_child_feedback_input_comment": {
+          "en": {
+            "singular": "Join to write a comment to this post.",
+            "plural": "Join to write a comment to this post."
+          },
+          "ko": {
+            "singular": "댓글을 작성하려면 가입을 먼저 해주세요.",
+            "plural": "댓글을 작성하려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_full": {
+          "en": {
+            "singular": "Login to see this page.",
+            "plural": "Login to see this page."
+          },
+          "ko": {
+            "singular": "화면을 보려면 로그인을 먼저 해주세요.",
+            "plural": "화면을 보려면 로그인을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input": {
+          "en": {
+            "singular": "Sign up to send a message to this channel.",
+            "plural": "Sign up to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 가입을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 가입을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input_chat": {
+          "en": {
+            "singular": "Login to send a message to this channel.",
+            "plural": "Login to send a message to this channel."
+          },
+          "ko": {
+            "singular": "메시지를 보내려면 로그인을 먼저 해주세요.",
+            "plural": "메시지를 보내려면 로그인을 먼저 해주세요."
+          }
+        },
+        "non_signed_up_parent_feedback_input_comment": {
+          "en": {
+            "singular": "Login to write a comment to this post.",
+            "plural": "Login to write a comment to this post."
+          },
+          "ko": {
+            "singular": "댓글을 작성하려면 로그인을 먼저 해주세요.",
+            "plural": "댓글을 작성하려면 로그인을 먼저 해주세요."
+          }
+        },
+        "moim_card_explore": {
+          "en": {
+            "singular": "Explore",
+            "plural": "Explore"
+          },
+          "ko": {
+            "singular": "둘러보기",
+            "plural": "둘러보기"
+          }
+        },
+        "moim_card_joined": {
+          "en": {
+            "singular": "Joined",
+            "plural": "Joined"
+          },
+          "ko": {
+            "singular": "참여 중",
+            "plural": "참여 중"
+          }
+        },
+        "child_moim_coming_soon": {
+          "en": {
+            "singular": "Coming soon",
+            "plural": "Coming soon"
+          },
+          "ko": {
+            "singular": "오픈 예정",
+            "plural": "오픈 예정"
+          }
+        },
+        "child_moim_active": {
+          "en": {
+            "singular": "Active",
+            "plural": "Active"
+          },
+          "ko": {
+            "singular": "활동 중",
+            "plural": "활동 중"
+          }
+        },
+        "child_moim_terminated": {
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          },
+          "ko": {
+            "singular": "종료",
+            "plural": "종료"
+          }
+        },
+        "no_right_read_post_list_text": {
+          "en": {
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view this page.\nThe right to view this page is required.",
+            "plural": "Not able to view this page.\nThe right to view this page is required."
+          }
+        },
+        "no_right_read_post_show_text": {
+          "en": {
+            "singular": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 게시글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to read this post.\nThe right to read this post is required.",
+            "plural": "Not able to read this post.\nThe right to read this post is required."
+          }
+        },
+        "no_right_read_comment_show_text": {
+          "en": {
+            "singular": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 게시글의 댓글은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view the comments of this post.\nThe right to read comments is required.",
+            "plural": "Not able to view the comments of this post.\nThe right to read comments is required."
+          }
+        },
+        "no_right_read_chat_show_text": {
+          "en": {
+            "singular": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다.",
+            "plural": "이 화면은 볼 수 없습니다.\n권한이 있는 사용자만 볼 수 있습니다."
+          },
+          "ko": {
+            "singular": "Not able to view this page.\nThe right to see this page is required.",
+            "plural": "Not able to view this page.\nThe right to see this page is required."
+          }
+        },
+        "no_right_write_comment_text": {
+          "en": {
+            "singular": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다.",
+            "plural": "이 게시글에 댓글을 작성할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to write comments for this post.",
+            "plural": "You do not have the right to write comments for this post."
+          }
+        },
+        "no_right_write_chat_text": {
+          "en": {
+            "singular": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다.",
+            "plural": "이 채널에 메시지를 보낼 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to send messages to this channel.",
+            "plural": "You do not have the right to send messages to this channel."
+          }
+        },
+        "no_right_write_post_text": {
+          "en": {
+            "singular": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다.",
+            "plural": "이 채널에 게시글을 작성할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to write posts on this channel.",
+            "plural": "You do not have the right to write posts on this channel."
+          }
+        },
+        "no_right_react_post_text": {
+          "en": {
+            "singular": "이 게시글에 반응할 수 있는 권한이 없습니다.",
+            "plural": "이 게시글에 반응할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to react to this post.",
+            "plural": "You do not have the right to react to this post."
+          }
+        },
+        "no_right_react_comment_text": {
+          "en": {
+            "singular": "이 댓글에 반응할 수 있는 권한이 없습니다.",
+            "plural": "이 댓글에 반응할 수 있는 권한이 없습니다."
+          },
+          "ko": {
+            "singular": "You do not have the right to react to the comments of this post.",
+            "plural": "You do not have the right to react to the comments of this post."
+          }
+        },
+        "empty_forum_text": {
+          "en": {
+            "singular": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!",
+            "plural": "여긴 아직 썰렁하군요...\n이 공간에 따뜻한 관심을 보여주세요!"
+          },
+          "ko": {
+            "singular": "It's a little bit cold out here...\nShow your warm attention to this channel!",
+            "plural": "It's a little bit cold out here...\nShow your warm attention to this channel!"
+          }
+        },
+        "empty_position_show_text": {
+          "en": {
+            "singular": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!",
+            "plural": "아직 아무도 없군요...\n이 역할에 관심을 가져주세요!"
+          },
+          "ko": {
+            "singular": "Nobody here yet...\nPlease take an interest in this position.",
+            "plural": "Nobody here yet...\nPlease take an interest in this position."
+          }
+        },
+        "empty_profile_show_text": {
+          "en": {
+            "singular": "아직 표시할 활동이 없어요",
+            "plural": "아직 표시할 활동이 없어요"
+          },
+          "ko": {
+            "singular": "No footprint has been left here...",
+            "plural": "No footprint has been left here..."
+          }
+        },
+        "comment_empty_emoji": {
+          "en": {
+            "singular": "💭",
+            "plural": "💭"
+          },
+          "ko": {
+            "singular": "💭",
+            "plural": "💭"
+          }
+        },
+        "comment_empty_text": {
+          "en": {
+            "singular": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!",
+            "plural": "아직 댓글이 없어요.\n이 게시글에 대한 의견을 나눠주세요!"
+          },
+          "ko": {
+            "singular": "No comments yet,\nShare your thoughts about this post!",
+            "plural": "No comments yet,\nShare your thoughts about this post!"
+          }
+        },
+        "button_buy_now": {
+          "ko": {
+            "singular": "구매하기",
+            "plural": "구매하기"
+          },
+          "en": {
+            "singular": "Buy Now",
+            "plural": "Buy Now"
+          }
+        },
+        "sale_status_scheduled": {
+          "ko": {
+            "singular": "판매예정",
+            "plural": "판매예정"
+          },
+          "en": {
+            "singular": "To Be Available",
+            "plural": "To Be Available"
+          }
+        },
+        "sale_status_for_sale": {
+          "ko": {
+            "singular": "판매중",
+            "plural": "판매중"
+          },
+          "en": {
+            "singular": "For Sale",
+            "plural": "For Sale"
+          }
+        },
+        "sale_status_finished": {
+          "ko": {
+            "singular": "판매종료",
+            "plural": "판매종료"
+          },
+          "en": {
+            "singular": "Discontinued",
+            "plural": "Discontinued"
+          }
+        },
+        "sale_status_sold_out": {
+          "ko": {
+            "singular": "재고없음",
+            "plural": "재고없음"
+          },
+          "en": {
+            "singular": "Out of Stock",
+            "plural": "Out of Stock"
+          }
+        },
+        "back_this_project": {
+          "ko": {
+            "singular": "후원하기",
+            "plural": "후원하기"
+          },
+          "en": {
+            "singular": "Back this project",
+            "plural": "Back this project"
+          }
+        },
+        "funding_status_scheduled": {
+          "ko": {
+            "singular": "오픈예정",
+            "plural": "오픈예정"
+          },
+          "en": {
+            "singular": "To Be Launched",
+            "plural": "To Be Launched"
+          }
+        },
+        "funding_status_completed": {
+          "ko": {
+            "singular": "핀딩종료",
+            "plural": "핀딩종료"
+          },
+          "en": {
+            "singular": "End of Project",
+            "plural": "End of Project"
+          }
+        },
+        "funding_status_sold_out": {
+          "ko": {
+            "singular": "펀딩완료",
+            "plural": "펀딩완료"
+          },
+          "en": {
+            "singular": "Target Met",
+            "plural": "Target Met"
+          }
+        },
+        "my_shopping_menu_title": {
+          "ko": {
+            "singular": "마이쇼핑",
+            "plural": "마이쇼핑"
+          },
+          "en": {
+            "singular": "My Shopping",
+            "plural": "My Shopping"
+          }
+        },
+        "my_shopping_orders_menu_title": {
+          "ko": {
+            "singular": "주문",
+            "plural": "주문"
+          },
+          "en": {
+            "singular": "Orders",
+            "plural": "Orders"
+          }
+        },
+        "my_shopping_orders_empty_title": {
+          "ko": {
+            "singular": "아직 주문내역이 없습니다.",
+            "plural": "아직 주문내역이 없습니다."
+          },
+          "en": {
+            "singular": "No order history yet.",
+            "plural": "No order history yet."
+          }
+        },
+        "my_shopping_orders_id_title": {
+          "ko": {
+            "singular": "주문번호",
+            "plural": "주문번호"
+          },
+          "en": {
+            "singular": "Order No.",
+            "plural": "Order No."
+          }
+        },
+        "my_shopping_orders_details_title": {
+          "ko": {
+            "singular": "주문상세",
+            "plural": "주문상세"
+          },
+          "en": {
+            "singular": "Order Details",
+            "plural": "Order Details"
+          }
+        },
+        "my_shopping_orders_details_payment_title": {
+          "ko": {
+            "singular": "주문/결제 정보",
+            "plural": "주문/결제 정보"
+          },
+          "en": {
+            "singular": "Order/Payment",
+            "plural": "Order/Payment"
+          }
+        },
+        "my_shopping_orders_total_product_title": {
+          "ko": {
+            "singular": "총 상품 가격",
+            "plural": "총 상품 가격"
+          },
+          "en": {
+            "singular": "Total Product Price",
+            "plural": "Total Product Price"
+          }
+        },
+        "my_shopping_orders_buyer_info": {
+          "ko": {
+            "singular": "구매자 정보",
+            "plural": "구매자 정보"
+          },
+          "en": {
+            "singular": "Buyer Information",
+            "plural": "Buyer Information"
+          }
+        },
+        "my_shopping_coupon_credit_menu_title": {
+          "ko": {
+            "singular": "혜택",
+            "plural": "혜택"
+          },
+          "en": {
+            "singular": "Coupon/Credit",
+            "plural": "Coupon/Credit"
+          }
+        },
+        "search_result_menu_products": {
+          "ko": {
+            "singular": "상품",
+            "plural": "상품"
+          },
+          "en": {
+            "singular": "Products",
+            "plural": "Products"
+          }
+        },
+        "non_joined_child_feedback_input_review_reply": {
+          "ko": {
+            "singular": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요.",
+            "plural": "리뷰에 댓글을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "singular": "Join to write a comment to this review.",
+            "plural": "Join to write a comment to this review."
+          }
+        },
+        "non_joined_child_feedback_input_qna_answer": {
+          "ko": {
+            "singular": "답변을 작성하려면 가입을 먼저 해주세요.",
+            "plural": "답변을 작성하려면 가입을 먼저 해주세요."
+          },
+          "en": {
+            "singular": "Join to write an answer to this question.",
+            "plural": "Join to write an answer to this question."
+          }
+        },
+        "product_review_lowercase": {
+          "ko": {
+            "singular": "리뷰",
+            "plural": "리뷰"
+          },
+          "en": {
+            "singular": "review",
+            "plural": "review"
+          }
+        },
+        "product_question_lowercase": {
+          "ko": {
+            "singular": "질문",
+            "plural": "질문"
+          },
+          "en": {
+            "singular": "question",
+            "plural": "question"
+          }
+        },
+        "product_comment_lowercase": {
+          "ko": {
+            "singular": "응원댓글",
+            "plural": "응원댓글"
+          },
+          "en": {
+            "singular": "comment",
+            "plural": "comment"
+          }
+        },
+        "product_review_reply_lowercase": {
+          "ko": {
+            "singular": "답글",
+            "plural": "답글"
+          },
+          "en": {
+            "singular": "comment",
+            "plural": "comment"
+          }
+        },
+        "product_answer_reply_lowercase": {
+          "ko": {
+            "singular": "답변",
+            "plural": "답변"
+          },
+          "en": {
+            "singular": "answer",
+            "plural": "answer"
+          }
+        },
+        "product_comment_reply_lowercase": {
+          "ko": {
+            "singular": "답글",
+            "plural": "답글"
+          },
+          "en": {
+            "singular": "reply",
+            "plural": "reply"
+          }
+        },
+        "product_engagement_contents_1depth_thread_types": {
+          "ko": {
+            "singular": "리뷰, 질문, 응원댓글",
+            "plural": "리뷰, 질문, 응원댓글"
+          },
+          "en": {
+            "singular": "review, question, comment",
+            "plural": "reviews, questions, comments"
+          }
+        },
+        "product_engagement_contents_2depth_thread_types": {
+          "ko": {
+            "singular": "답글",
+            "plural": "답글"
+          },
+          "en": {
+            "singular": "reply",
+            "plural": "replies"
+          }
+        },
+        "search_tab_default_body": {
+          "ko": {
+            "singular": "찾고 싶은 내용을 검색해보세요!",
+            "plural": "찾고 싶은 내용을 검색해보세요!"
+          },
+          "en": {
+            "singular": "Search whatever you want!",
+            "plural": "Search whatever you want!"
+          }
+        },
+        "button_mint_nft_upcoming": {
+          "ko": {
+            "singular": "Mint is coming",
+            "plural": "Mint is coming"
+          },
+          "en": {
+            "singular": "Mint is coming",
+            "plural": "Mint is coming"
+          }
+        },
+        "button_mint_nft": {
+          "ko": {
+            "singular": "민팅하기",
+            "plural": "민팅하기"
+          },
+          "en": {
+            "singular": "Mint",
+            "plural": "Mint"
+          }
+        },
+        "button_minted_nft": {
+          "ko": {
+            "singular": "민팅완료",
+            "plural": "민팅완료"
+          },
+          "en": {
+            "singular": "Minted",
+            "plural": "Minted"
+          }
+        },
+        "button_mint_nft_terminated": {
+          "ko": {
+            "singular": "민팅종료",
+            "plural": "민팅종료"
+          },
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          }
+        },
+        "leave_parent_moim_notice": {
+          "ko": {
+            "singular": "탈퇴 전 아래 내용을 꼭 확인해주세요.\n- 탈퇴 시 계정 정보가 삭제되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 시 적립금 및 쿠폰이 모두 소멸되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 후 통신비밀보호법에 따라 웹사이트 방문기록이 3개월간 보관됩니다.\n- 탈퇴 후 소비자보호법에 따라 계약 또는 청약철회, 대금결제 및 재화 등의 공급에 관한 기록이 5년간 보관됩니다.",
+            "plural": "탈퇴 전 아래 내용을 꼭 확인해주세요.\n- 탈퇴 시 계정 정보가 삭제되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 시 적립금 및 쿠폰이 모두 소멸되며 다시 가입해도 복구되지 않습니다.\n- 탈퇴 후 통신비밀보호법에 따라 웹사이트 방문기록이 3개월간 보관됩니다.\n- 탈퇴 후 소비자보호법에 따라 계약 또는 청약철회, 대금결제 및 재화 등의 공급에 관한 기록이 5년간 보관됩니다."
+          },
+          "en": {
+            "singular": "Please check the following.\n- The user data will be permanently deleted and will not be restored even if you rejoin.\n- Your whole credits and coupons will be deleted and will not be restored.",
+            "plural": "Please check the following.\n- The user data will be permanently deleted and will not be restored even if you rejoin.\n- Your whole credits and coupons will be deleted and will not be restored."
+          }
+        },
+        "non_signed_up_parent_feedback_noti_list": {
+          "ko": {
+            "singular": "알림 목록을 보려면 로그인을 해주세요.",
+            "plural": "알림 목록을 보려면 로그인을 해주세요."
+          },
+          "en": {
+            "singular": "Login to see the notification list.",
+            "plural": "Login to see the notification list."
+          }
+        },
+        "non_signed_up_parent_feedback_profile": {
+          "ko": {
+            "singular": "내 프로필을 보려면 로그인을 해주세요.",
+            "plural": "내 프로필을 보려면 로그인을 해주세요."
+          },
+          "en": {
+            "singular": "Login to see your profile.",
+            "plural": "Login to see your profile."
+          }
+        },
+        "dialog_ask_login_body": {
+          "ko": {
+            "singular": "로그인이 필요합니다. 로그인하시겠습니까?",
+            "plural": "로그인이 필요합니다. 로그인하시겠습니까?"
+          },
+          "en": {
+            "singular": "Do you want to login?",
+            "plural": "Do you want to login?"
+          }
+        },
+        "forum_channel_to_be_started": {
+          "en": {
+            "singular": "To be started",
+            "plural": "To be started"
+          },
+          "ko": {
+            "singular": "시작 예정",
+            "plural": "시작 예정"
+          }
+        },
+        "forum_channel_ongoing": {
+          "en": {
+            "singular": "Ongoing",
+            "plural": "Ongoing"
+          },
+          "ko": {
+            "singular": "진행 중",
+            "plural": "진행 중"
+          }
+        },
+        "forum_channel_terminated": {
+          "en": {
+            "singular": "Terminated",
+            "plural": "Terminated"
+          },
+          "ko": {
+            "singular": "종료",
+            "plural": "종료"
+          }
+        }
+      },
+      "status_config": {
+        "type": "none",
+        "hideTimer": true,
+        "isEnabledStatus": false,
+        "enableScheduler": false,
+        "hideRemainTime": true
+      },
+      "updated_at": 1649758523212,
+      "seller_id": "CS:2NCRXQT3",
+      "mobile_top_tabs": [
+        {
+          "type": "home"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 2
+  },
+  "thumbnail": {
+    "type": "ratio",
+    "value": "5:3",
+    "position": "top"
+  }
+}

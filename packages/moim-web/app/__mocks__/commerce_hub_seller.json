@@ -1,0 +1,19 @@
+{
+  "id": "FYPCBR4ZV7",
+  "groupId": "G0VEUOBM0W",
+  "name": "comone",
+  "accountIds": ["test"],
+  "createdAt": 1621303023080,
+  "updatedAt": 1621303023080,
+  "accounts": [
+    {
+      "id": "test",
+      "type": "nicepayDefault",
+      "name": "nicepay test 2",
+      "callbackUrl": "https://payment-web.vingle.network/checkout/complete?purchaseId=${purchaseId}",
+      "failureUrl": "https://payment-web.vingle.network/checkout/cancel?purchaseId=${purchaseId}",
+      "mid": "nicepay00m",
+      "createdAt": 1606299562070
+    }
+  ]
+}

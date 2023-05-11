@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="0.012">
+ <testsuite name="isEmptyString()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.006" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="isEmptyString().when string is empty" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.006" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isEmptyString().when string is empty" name="should return true" time="0.006" />
+ </testsuite>
+ <testsuite name="isEmptyString().when string is not empty" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="isEmptyString().when string is not empty" name="should return falsy" time="0" />
+ </testsuite>
+</testsuites>

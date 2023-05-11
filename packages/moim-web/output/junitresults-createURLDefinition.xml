@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="7" time="0.146">
+ <testsuite name="createURLDefinition" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.051" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.pattern" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.pattern" name="should pattern value is public static value" time="0.001" />
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.isSame" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.isSame" name="should argument path will be true" time="0.001" />
+  <testcase classname="createURLDefinition.createURLDefinition.isSame" name="should argument path will be false" time="0" />
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.prototype.toString" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.048" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.prototype.toString..toString without parameter" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.029" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.prototype.toString..toString without parameter" name="should path alright" time="0.029" />
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.prototype.toString..toString with parameter" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.015" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.prototype.toString..toString with parameter" name="should path alright with given hostname" time="0.015" />
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.prototype.toLocation" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.prototype.toLocation" name="should locationDescription alright" time="0.001" />
+ </testsuite>
+ <testsuite name="createURLDefinition.createURLDefinition.prototype.toSchema" timestamp="2022-12-15T18:03:27" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="createURLDefinition.createURLDefinition.prototype.toSchema" name="should prefix is vingle schema" time="0" />
+ </testsuite>
+</testsuites>

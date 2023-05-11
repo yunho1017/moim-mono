@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 62 (101010) - https://sketch.com -->
+    <title>04C75952-844A-44C1-A65B-6F0629A111A4</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="⚪️Element/Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Element/Icons" transform="translate(-1652.000000, -2387.000000)">
+            <g id="ic/24/24_sectionfolder_g" transform="translate(1652.000000, 2387.000000)">
+                <g>
+                    <g>
+                        <rect id="24" x="0" y="0" width="24" height="24"></rect>
+                        <circle id="Oval" stroke="#E9EDF0" fill="#FFFFFF" cx="12" cy="12" r="10.5"></circle>
+                        <polyline id="back" stroke="#AEB8BD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.000000, 12.000000) scale(-1, 1) rotate(270.000000) translate(-11.000000, -12.000000) " points="15 10 11.0077699 14 7 10"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

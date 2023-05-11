@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": "FC7EAUXLF",
+    "upload": {
+      "key": "MOCK_STRING",
+      "bucket": "MOCK_STRING",
+      "X-Amz-Algorithm": "MOCK_STRING",
+      "X-Amz-Credential": "MOCK_STRING",
+      "X-Amz-Date": "MOCK_STRING",
+      "X-Amz-Security-Token": "MOCK_STRING",
+      "Policy": "MOCK_STRING",
+      "X-Amz-Signature": "MOCK_STRING"
+    }
+  }
+}

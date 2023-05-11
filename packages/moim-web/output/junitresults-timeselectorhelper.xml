@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="8" time="0.071">
+ <testsuite name="time selector helper" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.024" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="time selector helper.getTimeList()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.02" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="time selector helper.getTimeList().when get one day time list" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.014" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.getTimeList().when get one day time list" name="should list length is expect length" time="0.014" />
+ </testsuite>
+ <testsuite name="time selector helper.getTimeList().when setting start time" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.004" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.getTimeList().when setting start time" name="should list length is expect length" time="0.003" />
+ </testsuite>
+ <testsuite name="time selector helper.getTimeList().when setting start time and end time" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.getTimeList().when setting start time and end time" name="should list length is expect length" time="0.001" />
+ </testsuite>
+ <testsuite name="time selector helper.getTimeList().when setting start time and end time and intervalMinute" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.getTimeList().when setting start time and end time and intervalMinute" name="should list length is expect length" time="0" />
+ </testsuite>
+ <testsuite name="time selector helper.formatTime()" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.004" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="time selector helper.formatTime().when format is 12" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.003" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.formatTime().when format is 12" name="should return time string containing AM string" time="0.003" />
+  <testcase classname="time selector helper.formatTime().when format is 12" name="should return time string containing PM string" time="0" />
+ </testsuite>
+ <testsuite name="time selector helper.formatTime().when format is 24" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="time selector helper.formatTime().when format is 24" name="should return expected time string" time="0.001" />
+  <testcase classname="time selector helper.formatTime().when format is 24" name="should return time string on convert 24 hours" time="0" />
+ </testsuite>
+</testsuites>

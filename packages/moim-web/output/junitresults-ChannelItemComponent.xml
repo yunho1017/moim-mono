@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="7" time="1.154">
+ <testsuite name="Channel Item Component" timestamp="2022-12-15T18:03:15" hostname="localhost" time="0.561" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Channel Item Component.when click channel item" timestamp="2022-12-15T18:03:15" hostname="localhost" time="0.017" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when click channel item" name="should invoke onClickChannel function" time="0.017" />
+ </testsuite>
+ <testsuite name="Channel Item Component.when private channel" timestamp="2022-12-15T18:03:15" hostname="localhost" time="0.398" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when private channel" name="should render private icon" time="0.398" />
+ </testsuite>
+ <testsuite name="Channel Item Component.when link channel" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.065" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when link channel" name="should render link icon" time="0.04" />
+  <testcase classname="Channel Item Component.when link channel" name="should render private icon" time="0.024" />
+ </testsuite>
+ <testsuite name="Channel Item Component.when forum channel" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.023" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when forum channel" name="should unread count include + string" time="0.023" />
+ </testsuite>
+ <testsuite name="Channel Item Component.when unread state" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.056" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when unread state" name="should item has unread count" time="0.022" />
+ </testsuite>
+ <testsuite name="Channel Item Component.when unread state.when unread count is over then MAX_UNREAD_COUNT" timestamp="2022-12-15T18:03:16" hostname="localhost" time="0.034" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Channel Item Component.when unread state.when unread count is over then MAX_UNREAD_COUNT" name="should unread count include + string" time="0.034" />
+ </testsuite>
+</testsuites>

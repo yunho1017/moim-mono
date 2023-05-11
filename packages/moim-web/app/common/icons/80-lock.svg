@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-15.2%" y="-11.8%" width="130.3%" height="129.4%" filterUnits="objectBoundingBox" id="pjaa1h8fha">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.103855373 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M39 6c13.703 0 24.93 10.6 25.928 24.048A9 9 0 0 1 73 39v26a9 9 0 0 1-9 9H16a9 9 0 0 1-9-9V39a9.004 9.004 0 0 1 6.043-8.503C13.821 16.837 25.145 6 39 6zm.5 35a7.5 7.5 0 0 0-3.415 14.18c-.056.263-.085.538-.085.82v9a4 4 0 1 0 8 0v-9c0-.468-.08-.918-.228-1.335A7.5 7.5 0 0 0 39.5 41zM39 14.21c-9.149 0-16.684 6.907-17.678 15.79h35.356c-.994-8.883-8.53-15.79-17.678-15.79z" id="vp6i2gu7sb"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <use fill="#000" filter="url(#pjaa1h8fha)" xlink:href="#vp6i2gu7sb"/>
+        <use fill="#FFF" xlink:href="#vp6i2gu7sb"/>
+    </g>
+</svg>

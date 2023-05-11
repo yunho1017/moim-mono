@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="2" time="0.002">
+ <testsuite name="SideNavigation Reducer" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="SideNavigation Reducer.when dispatch EXPAND_SIDE_NAVIGATION action" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="SideNavigation Reducer.when dispatch EXPAND_SIDE_NAVIGATION action" name="should isExpand state is true" time="0.001" />
+ </testsuite>
+ <testsuite name="SideNavigation Reducer.when dispatch COLLAPSE_SIDE_NAVIGATION action" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="SideNavigation Reducer.when dispatch COLLAPSE_SIDE_NAVIGATION action" name="should isExpand state is false" time="0" />
+ </testsuite>
+</testsuites>

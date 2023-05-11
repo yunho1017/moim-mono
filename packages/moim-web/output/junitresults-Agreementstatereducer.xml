@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.016">
+ <testsuite name="Agreement state reducer" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.008" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Agreement state reducer.when dispatch START_GET_AGREEMENT" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Agreement state reducer.when dispatch START_GET_AGREEMENT" name="should change isLoading to true" time="0.001" />
+ </testsuite>
+ <testsuite name="Agreement state reducer.when dispatch FAILED_GET_AGREEMENT" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Agreement state reducer.when dispatch FAILED_GET_AGREEMENT" name="should change isLoading to false" time="0" />
+ </testsuite>
+ <testsuite name="Agreement state reducer.when dispatch SUCCEED_GET_AGREEMENT" timestamp="2022-12-15T18:03:24" hostname="localhost" time="0.007" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Agreement state reducer.when dispatch SUCCEED_GET_AGREEMENT" name="should change isLoading to false and Set agreement content" time="0.006" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": "FC7EAUXLF",
+    "group": "G03PCGV9S",
+    "status": {
+      "name": "QUEUED",
+      "updated_at": 1581920099255
+    },
+    "created_at": 1581920070404,
+    "name": "image.jpg",
+    "title": "image",
+    "user": "U59S66BWP",
+    "mode": "hosted"
+  }
+}

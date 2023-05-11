@@ -1,0 +1,13 @@
+{
+  "id": "A123",
+  "name": "POSITION1",
+  "description": "POSITION DESCRIPTION",
+  "creator": "U12345",
+  "color": "#FF7100",
+  "authority": "AA",
+  "priority": 1,
+  "limit": 10,
+  "member_count": 3,
+  "is_member": true,
+  "created_at": 1581323822526
+}

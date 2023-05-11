@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="3" time="0.104">
+ <testsuite name="ForumEditorContainer&apos;s page reducer" timestamp="2022-12-15T18:03:18" hostname="localhost" time="0.052" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="ForumEditorContainer&apos;s page reducer.when given START_POSTING_THREAD action" timestamp="2022-12-15T18:03:18" hostname="localhost" time="0.05" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="ForumEditorContainer&apos;s page reducer.when given START_POSTING_THREAD action" name="should isLoading to true" time="0.002" />
+ </testsuite>
+ <testsuite name="ForumEditorContainer&apos;s page reducer.when given FAILED_POSTING_THREAD action" timestamp="2022-12-15T18:03:18" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="ForumEditorContainer&apos;s page reducer.when given FAILED_POSTING_THREAD action" name="should hasFailed to true" time="0.001" />
+ </testsuite>
+ <testsuite name="ForumEditorContainer&apos;s page reducer.when given SUCCEEDED_POSTING_THREAD action" timestamp="2022-12-15T18:03:18" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="ForumEditorContainer&apos;s page reducer.when given SUCCEEDED_POSTING_THREAD action" name="should isLoading to true" time="0.001" />
+ </testsuite>
+</testsuites>

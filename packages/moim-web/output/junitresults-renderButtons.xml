@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="0.1">
+ <testsuite name="renderButtons()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.05" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="renderButtons().when inject buttons array" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.05" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="renderButtons().when inject buttons array" name="should render that the same number of button components" time="0.05" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Moim Webapp Plugin Callback</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mobile-detect/1.4.4/mobile-detect.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+  </head>
+
+  <body>
+    <script type="text/javascript">
+      const md = new MobileDetect(window.navigator.userAgent);
+      ready(function() {
+        if (md.phone() || md.mobile()) {
+          const entryDataString = Cookies.get("MOIM_PLUGIN_ENTRY_PLATFORM");
+          if (entryDataString) {
+            const entryData = JSON.parse(entryDataString);
+
+            Cookies.remove("MOIM_PLUGIN_ENTRY_PLATFORM");
+            location.replace(entryData.appCallbackUrl + location.search);
+
+            return;
+          }
+
+          const lastSeen = Cookies.get("plugin_requested_last_seen");
+          if (lastSeen) {
+            location.replace(lastSeen + location.search);
+            return;
+          }
+
+          location.replace("/" + location.search);
+        } else {
+          if (window.opener) {
+            const query = new URLSearchParams(location.search);
+            const data = Array.from(query.entries()).reduce(
+              (result, [key, value]) => {
+                return {
+                  ...result,
+                  [key]: value,
+                };
+              },
+              {},
+            );
+            const message = JSON.stringify({
+              source: "vingle_moim_co_IPC",
+              payload: {
+                type: "plugin-callback",
+                data: data,
+              },
+            });
+            window.opener.postMessage(message, "*");
+            window.close();
+          } else {
+            // Fallback for direct access, or authentication failure
+            location.replace("/");
+          }
+        }
+      });
+
+      window.addEventListener("beforeunload", function(event) {
+        const message = JSON.stringify({
+          source: "vingle_moim_co_IPC",
+          payload: {
+            type: "plugin-callback",
+            data: {
+              status: "close",
+            },
+          },
+        });
+        window.opener.postMessage(message, "*");
+        event.preventDefault();
+        event.returnValue = "";
+      });
+
+      function ready(fn) {
+        if (document.readyState !== "loading") {
+          fn();
+        } else {
+          document.addEventListener("DOMContentLoaded", fn);
+        }
+      }
+    </script>
+  </body>
+</html>

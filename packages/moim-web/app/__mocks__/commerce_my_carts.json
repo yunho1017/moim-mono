@@ -1,0 +1,20 @@
+{
+  "id": "CT:2LX2BYFW",
+  "sellerId": "FYPCBR4ZV7",
+  "scopedUserId": "FYPCBR4ZV7|VXNlcjo2YWEzYWE1Yy0zNzk4LTRlYzYtOGU2MC0xMGU4MzUxOTM4MmM=",
+  "items": [
+    {
+      "items": [
+        {
+          "checked": true,
+          "quantity": 1,
+          "productId": "FZEXY0IBFO",
+          "productVariantId": "FZEXY0ITKY"
+        }
+      ],
+      "sellerId": "FYPCBR4ZV7"
+    }
+  ],
+  "createdAt": 1624510458140,
+  "updatedAt": 1624523584067
+}

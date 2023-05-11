@@ -1,0 +1,15 @@
+{
+  "data": [{
+    "id": "W262X5PN7",
+    "name": "action-tag1",
+    "group": "G0YA8DWIL",
+    "priority": -36048403,
+    "type": "tag",
+    "creator": "UCD6L2B8I",
+    "created_at": 1590036048403,
+    "updated_at": 1590036048403,
+    "is_menu": true,
+    "is_all": false
+  }],
+  "paging": {}
+}

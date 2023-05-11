@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="4" time="0.052">
+ <testsuite name="Category Denormalize" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.026" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Category Denormalize.categoryDenoramlizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.024" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Category Denormalize.categoryDenoramlizer()" name="should get Category" time="0.024" />
+ </testsuite>
+ <testsuite name="Category Denormalize.categorySimpleListDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Category Denormalize.categorySimpleListDenormalizer()" name="should get Category" time="0.001" />
+ </testsuite>
+ <testsuite name="Category Denormalize.categorySingleItemDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Category Denormalize.categorySingleItemDenormalizer()" name="should get Category" time="0" />
+ </testsuite>
+ <testsuite name="Category Denormalize.categoryListDenormalizer()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Category Denormalize.categoryListDenormalizer()" name="should get Category" time="0.001" />
+ </testsuite>
+</testsuites>

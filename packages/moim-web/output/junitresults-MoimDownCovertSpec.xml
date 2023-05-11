@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="0.002">
+ <testsuite name="MoimDownCovert Spec" timestamp="2022-12-15T18:03:28" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="MoimDownCovert Spec.WIP 1" timestamp="2022-12-15T18:03:28" hostname="localhost" time="0.001" errors="0" tests="1" skipped="1" disabled="0" failures="0">
+  <testcase classname="MoimDownCovert Spec.WIP 1" name="T-1" time="0">
+   <skipped />
+  </testcase>
+ </testsuite>
+</testsuites>

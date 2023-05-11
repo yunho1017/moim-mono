@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.01">
+ <testsuite name="expiredInMemoryHelper" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.005" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.set()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.003" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="expiredInMemoryHelper.set()" name="should store any type of data with desired expired time" time="0.003" />
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.get()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.get().when target item didn&apos;t store yet" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="expiredInMemoryHelper.get().when target item didn&apos;t store yet" name="should return properly data" time="0" />
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.get().when target item remain lifetime" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="expiredInMemoryHelper.get().when target item remain lifetime" name="should return properly data" time="0" />
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.get().when target item expired" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="expiredInMemoryHelper.get().when target item expired" name="should return null" time="0" />
+ </testsuite>
+ <testsuite name="expiredInMemoryHelper.clearAll()" timestamp="2022-12-15T18:03:26" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="expiredInMemoryHelper.clearAll()" name="should clear all of hash" time="0.001" />
+ </testsuite>
+</testsuites>

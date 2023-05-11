@@ -1,0 +1,19 @@
+[
+  {
+    "type": "positions",
+    "chipSize": "medium"
+  },
+  {
+    "type": "badges",
+    "badgeSize": "medium",
+    "showTitle": true
+  },
+  {
+    "blockId": "profile-show-token-USERNAME",
+    "params": {
+      "canUsername": "uxgubfhxojug"
+    },
+    "type": "reference",
+    "replaceId": "tokens"
+  }
+]

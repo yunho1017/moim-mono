@@ -1,0 +1,24 @@
+{
+  "data": {
+    "id": "T1577080529252.1435",
+    "author": "U12345",
+    "title": "Dong Hyun first test article",
+    "content": [
+      {
+        "type": "text",
+        "content": "string"
+      }
+    ],
+    "voteScore": 0,
+    "parentId": "C123",
+    "deleted": false,
+    "replies_count": 0,
+    "edited_at": 1577080529252,
+    "created_at": 1577080529252,
+    "updated_at": 1577080529252,
+    "vote": {
+      "type": "upvote",
+      "updated_at": 1577090529252
+    }
+  }
+}

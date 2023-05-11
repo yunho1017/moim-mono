@@ -1,0 +1,48 @@
+{
+  "data": [{
+      "id": "FP28TOC7K",
+      "group": "G03PCGV9S",
+      "status": {
+        "name": "AVAILABLE",
+        "updated_at": 1583367807630
+      },
+      "created_at": 1583367804795,
+      "name": "test-result.7a4009b7.png",
+      "title": "test-result.7a4009b7.png",
+      "user": "U59S66BWP",
+      "mode": "hosted",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG Image",
+      "editable": false,
+      "is_starred": false,
+      "size": 31684,
+      "is_public": true,
+      "public_url_shared": false,
+      "url_private": "https://files.vingle.network/files/G03PCGV9S/FP28TOC7K/test-result.7a4009b7.png"
+    },
+    {
+      "id": "FFG02UP9F",
+      "group": "G03PCGV9S",
+      "status": {
+        "name": "AVAILABLE",
+        "updated_at": 1583367815142
+      },
+      "created_at": 1583367813623,
+      "name": "test-result.7a4009b7.png",
+      "title": "test-result.7a4009b7.png",
+      "user": "U59S66BWP",
+      "mode": "hosted",
+      "mimetype": "image/png",
+      "filetype": "png",
+      "pretty_type": "PNG Image",
+      "editable": false,
+      "is_starred": false,
+      "size": 31684,
+      "is_public": true,
+      "public_url_shared": false,
+      "url_private": "https://files.vingle.network/files/G03PCGV9S/FFG02UP9F/test-result.7a4009b7.png"
+    }
+  ],
+  "paging": {}
+}

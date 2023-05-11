@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="5" time="0.021">
+ <testsuite name="linkifyParser()" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.007" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="linkifyParser().case of user mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.003" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="linkifyParser().case of user mention.when exists one user mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="linkifyParser().case of user mention.when exists one user mention" name="should return mention + plainText objects" time="0.002" />
+ </testsuite>
+ <testsuite name="linkifyParser().case of user mention.when exists two user mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="linkifyParser().case of user mention.when exists two user mention" name="should return mention + plainText objects" time="0.001" />
+ </testsuite>
+ <testsuite name="linkifyParser().case of channel mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="linkifyParser().case of channel mention.when exists one channel mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="linkifyParser().case of channel mention.when exists one channel mention" name="should return mention + plainText objects" time="0.001" />
+ </testsuite>
+ <testsuite name="linkifyParser().case of channel mention.when exists two channel mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.001" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="linkifyParser().case of channel mention.when exists two channel mention" name="should return mention + plainText objects" time="0.001" />
+ </testsuite>
+ <testsuite name="linkifyParser().case of combination mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="linkifyParser().case of combination mention.when exists two channel mention" timestamp="2022-12-15T18:03:25" hostname="localhost" time="0.002" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="linkifyParser().case of combination mention.when exists two channel mention" name="should return mention + plainText objects" time="0.002" />
+ </testsuite>
+</testsuites>

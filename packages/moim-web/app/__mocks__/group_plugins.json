@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": "B8PBQSHAA",
+      "name": "Purchase(lite) Bot",
+      "client": {
+        "id": "4dj9z06yw6vmn74gmeax",
+        "config": {
+          "endpoints": {
+            "replace": "https://plugins.vingle.network/purchase/replace",
+            "action": "https://plugins.vingle.network/purchase/action",
+            "home": "https://plugins.vingle.network/purchase/home"
+          }
+        }
+      },
+      "application": {
+        "id": "ZI99YC423",
+        "name": "Purchase Plugin for Moim",
+        "description": "Purchase Plugin for Moim"
+      }
+    },
+    {
+      "id": "B8PBQSHWZ",
+      "name": "Vote Bot",
+      "client": {
+        "id": "4dj9z06yw6vmn74gmeay",
+        "config": {
+          "endpoints": {
+            "replace": "https://plugins.vingle.network/vote/replace",
+            "action": "https://plugins.vingle.network/vote/action",
+            "home": "https://plugins.vingle.network/vote/home"
+          }
+        }
+      },
+      "application": {
+        "id": "ZCYF7HDIK",
+        "name": "D.Vote Plugin for Moim",
+        "description": "D.Vote Plugin for Moim"
+      }
+    },
+    {
+      "id": "B8PBQSHWA",
+      "name": "Wallet Bot",
+      "client": {
+        "id": "4dj9z06yw6vmn74gmeaz",
+        "config": {
+          "endpoints": {
+            "replace": "https://plugins.vingle.network/wallet/replace",
+            "action": "https://plugins.vingle.network/wallet/action",
+            "home": "https://plugins.vingle.network/wallet/home"
+          }
+        }
+      },
+      "application": {
+        "id": "ZI99YC424",
+        "name": "Token Wallet Plugin for Moim",
+        "description": "Token Wallet Plugin for Moim"
+      }
+    },
+    {
+      "id": "BR8ON9LGI",
+      "name": "Google Calendar Bot",
+      "client": {
+        "id": "om46u2zdo8a0ogxa9zhj",
+        "config": {
+          "endpoints": {
+            "replace": "https://plugins.vingle.network/google-calendar/replace",
+            "action": "https://plugins.vingle.network/google-calendar/action",
+            "home": "https://plugins.vingle.network/google-calendar/home"
+          }
+        }
+      },
+      "application": {
+        "id": "ZI99YC422",
+        "name": "Google Calendar Plugin for Moim",
+        "description": "Google Calendar Plugin for Moim"
+      }
+    }
+  ],
+  "paging": {}
+}
