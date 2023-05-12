@@ -24,11 +24,11 @@ const AvatarContainer = styled.div`
 
 const InnerAvatar = styled.div<{ position: number }>`
   position: absolute;
-  transform: ${props =>
+  transform: ${(props) =>
     `translate3d(-${px2rem(
-      props.position === 0 ? 18 : 14 * (props.position + 1),
+      props.position === 0 ? 18 : 14 * (props.position + 1)
     )}, 0, 0)`};
-  z-index: ${props => props.position};
+  z-index: ${(props) => props.position};
 `;
 
 interface IProps {
@@ -37,13 +37,13 @@ interface IProps {
 }
 
 const AvatarArray: React.FC<IProps> = ({ userIds, onClick }) => {
-  const { users } = useStoreState(state => ({
+  const { users } = useStoreState((state) => ({
     users: (
       userListDenormalizer(
-        { data: userIds.filter(i => Boolean(i)) },
-        state.entities,
+        { data: userIds.filter((i) => Boolean(i)) },
+        state.entities
       ) ?? { data: [] }
-    ).data.filter(i => Boolean(i)),
+    ).data.filter((i) => Boolean(i)),
   }));
 
   return (

@@ -6,7 +6,12 @@ const ForkTsCheckerWebpackPlugin = require("fork-ts-checker-webpack-plugin");
 const TsconfigPathsPlugin = require("tsconfig-paths-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-const babelLoaderNodeModules = ["react-intl", "xmlbuilder", "@aws-sdk"];
+const babelLoaderNodeModules = [
+  "react-intl",
+  "xmlbuilder",
+  "@aws-sdk",
+  "moim-common",
+];
 
 module.exports = {
   externals: {
@@ -43,8 +48,9 @@ module.exports = {
       {
         test: /\.(js|jsx)?$/,
         exclude: new RegExp(
-          `node_modules/(?!(${babelLoaderNodeModules.join("|")})/).*`,
+          `node_modules/(?!(${babelLoaderNodeModules.join("|")})/).*`
         ),
+
         use: [
           {
             loader: "babel-loader",
@@ -54,7 +60,7 @@ module.exports = {
       {
         test: /\.(ts|tsx)?$/,
         exclude: new RegExp(
-          `node_modules/(?!(${babelLoaderNodeModules.join("|")})/).*`,
+          `node_modules/(?!(${babelLoaderNodeModules.join("|")})/).*`
         ),
         use: "happypack/loader?id=ts-build",
       },
@@ -119,7 +125,7 @@ module.exports = {
             happyPackMode: true,
             getCustomTransformers: path.join(
               __dirname,
-              "./webpack.ts-transformers.js",
+              "./webpack.ts-transformers.js"
             ),
           },
         },
@@ -128,11 +134,11 @@ module.exports = {
     new webpack.NoEmitOnErrorsPlugin(),
     new webpack.ContextReplacementPlugin(
       /moment[\\\/]locale$/,
-      /^\.\/(en|ko)$/,
+      /^\.\/(en|ko)$/
     ),
     new webpack.ContextReplacementPlugin(
       /react-intl[\\\/]locale-data$/,
-      /^\.\/(en|ko)$/,
+      /^\.\/(en|ko)$/
     ),
     new HtmlWebpackPlugin({
       template: "app/callback.html",

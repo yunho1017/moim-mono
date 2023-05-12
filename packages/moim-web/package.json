@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/balmbees/moim-web#readme",
   "dependencies": {
-    "@balmbees/moim-proto": "0.0.35",
+    "@balmbees/moim-proto": "0.0.36",
     "@cubejs-client/core": "^0.24.0",
     "@cubejs-client/react": "^0.24.0",
     "@emotion/react": "^11.9.0",
@@ -95,7 +95,7 @@
     "localforage": "^1.7.3",
     "lodash": "^4.17.11",
     "mobile-detect": "^1.4.5",
-    "moim-common": "file:../moim-common",
+    "moim-common": "1.0.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.28",
     "nock": "^11.7.0",
@@ -174,11 +174,5 @@
     "video.js": "^8.0.4",
     "webfontloader": "^1.6.28",
     "webworkify-webpack-dropin": "^1.1.9"
-  },
-  "resolutions": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "typescript": "^4.8.4",
-    "graceful-fs": "4.2.11"
   }
 }

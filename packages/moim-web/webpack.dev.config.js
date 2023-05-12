@@ -6,6 +6,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const optimization = require("./webpack.optimization.config.js");
 const LoadablePlugin = require("@loadable/webpack-plugin");
 const aliasDev = require("./webpack.dev-alias.config.js");
+const watchNodeModules = ["moim-common"];
 
 module.exports = merge(common, optimization, aliasDev, {
   mode: "development",
@@ -42,7 +43,7 @@ module.exports = merge(common, optimization, aliasDev, {
     },
     compress: true,
     watchOptions: {
-      ignored: /node_modules/,
+      ignored: `node_modules/(?!(${watchNodeModules.join("|")})/).*`,
     },
     historyApiFallback: {
       disableDotRule: true,
@@ -54,10 +55,10 @@ module.exports = merge(common, optimization, aliasDev, {
       "process.env.NODE_ENV": JSON.stringify("development"),
       "process.env.PROJECT_NAME": JSON.stringify("moim-web"),
       "process.env.DQUEST_SERVICE_ID_STAGE": JSON.stringify(
-        "yoO3V786TIjZpVr4kpJf67RwrEl4gy3y",
+        "yoO3V786TIjZpVr4kpJf67RwrEl4gy3y"
       ),
       "process.env.DQUEST_SERVICE_ID_PROD": JSON.stringify(
-        "bVNr9THd3NAnAqllTkbDJUUUD60JmiKb",
+        "bVNr9THd3NAnAqllTkbDJUUUD60JmiKb"
       ),
     }),
     new HtmlWebpackPlugin({

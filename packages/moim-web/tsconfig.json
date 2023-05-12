@@ -26,9 +26,8 @@
     "strict": true,
     "strictFunctionTypes": false,
     "typeRoots": [
-      "./typings",
-      "../../node_modules/@types",
-      "../../node_modules/moim-common/@types"
+      "../../node_modules/moim-common/src/@types",
+      "../../node_modules/@types"
     ],
     "baseUrl": ".",
     "paths": {

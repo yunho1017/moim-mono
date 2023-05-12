@@ -23,12 +23,7 @@
     "allowJs": true,
     "strict": true,
     "strictFunctionTypes": false,
-    "typeRoots": ["src/typings", "node_modules/@types"],
-    "baseUrl": ".",
-    "paths": {
-      "BGLevels": ["./src/design-system/BGLevel"],
-      "DeCome": ["./src/decome"]
-    }
+    "typeRoots": ["src/@types/typings", "../../node_modules/@types"]
   },
   "include": ["src"]
 }
